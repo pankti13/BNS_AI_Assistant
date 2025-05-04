@@ -7,6 +7,7 @@ GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 model_gemini = genai.GenerativeModel(model_name="gemini-2.0-flash")
 
-def generate_gemini_response(prompt: str) -> str:
-    response = model_gemini.generate_content(prompt)
+def generate_gemini_response(prompt: str, history: list = None) -> str:
+    chat = model_gemini.start_chat(history=history or [])
+    response = chat.send_message(prompt)
     return response.text.strip()

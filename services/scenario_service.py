@@ -17,13 +17,15 @@ class ScenarioService:
         df.dropna(subset=["Vector"], inplace=True)
         return df
 
-    def is_scenario_query(self, query: str) -> bool:
+    def is_scenario_query(self, query: str, history: list = None) -> bool:
         prompt = (
-            "Is the input query a scenario describing a real-world situation that needs help with sections "
-            "according to Bhartiya Nyay Sanhita? Answer only 'yes' or 'no'.\n\n"
+            "Determine if the input query describes a detailed real-world scenario or situation that requires assistance "
+            "with identifying relevant sections according to Bhartiya Nyay Sanhita. The input should represent a specific, "
+            "contextualized case or narrative rather than a general statement or classification. Answer only 'yes' if it is "
+            "a scenario needing section prediction, otherwise answer 'no'.\n\n"
             f"Input: {query}"
         )
-        response = generate_gemini_response(prompt)
+        response = generate_gemini_response(prompt, history)
         return response.lower().startswith("yes")
 
     def get_top_scenarios(self, query: str, top_k: int = 5):
@@ -31,4 +33,4 @@ class ScenarioService:
         vectors = np.array(self.df["Vector"].tolist())
         similarities = cosine_similarity([query_vector], vectors)[0]
         top_indices = similarities.argsort()[-top_k:][::-1]
-        return self.df.iloc[top_indices][["Section Title", "Section Description"]].to_dict(orient="records")
+        return self.df.iloc[top_indices][["Section Number", "Chapter Number", "Chapter Name", "Section Title", "Section Description"]].to_dict(orient="records")
