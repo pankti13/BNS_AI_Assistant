@@ -42,16 +42,21 @@ class ScenarioService:
                 f"Section Description: {section['Section Description']}"
             )
             prompt = (
-                "Determine if the following section is relevant and applicable to the user's query.\n"
-                "Only return 'yes' if the section directly helps in resolving or addressing the scenario described.\n\n"
-                f"User Query: {final_query}\n\n"
+                "Determine if the following legal section is relevant to the user's query. "
+                "If it is, provide a brief explanation (1-2 lines) showing how it is relevant.\n\n"
+                f"User Query:\n{final_query}\n\n"
                 f"Section:\n{section_text}\n\n"
-                "Is this section relevant to the query? Answer only 'yes' or 'no'."
+                "If the section is relevant, respond in the format:\n"
+                "'yes - <short explanation>'\n"
+                "If not, just respond with 'no'."
             )
             response = generate_gemini_response(prompt)
-            if response.strip().lower().startswith("yes"):
+            response = response.strip().lower()
+            if response.startswith("yes"):
+                justification = response[4:].strip(" -–—:")
                 section_dict = section[["Section Number", "Chapter Number", "Chapter Name", "Section Title", "Section Description"]].to_dict()
-                section_dict["similarity"] = round(float(similarities[idx]), 4)
+                section_dict["Similarity"] = round(float(similarities[idx]), 4)
+                section_dict["Justification"] = justification
                 validated_sections.append(section_dict)
         return validated_sections
 
