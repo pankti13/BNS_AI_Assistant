@@ -27,10 +27,43 @@ class ScenarioService:
         )
         response = generate_gemini_response(prompt, history)
         return response.lower().startswith("yes")
+    
+    def get_validated_scenarios(self, final_query: str, top_indices: list):
+        query_vector = self.model_embed.encode(final_query)
+        vectors = np.array(self.df["Vector"].tolist())
+        similarities = cosine_similarity([query_vector], vectors)[0]
+        validated_sections = []
+        for idx in top_indices:
+            section = self.df.iloc[idx]
+            section_text = (
+                f"Section Number: {section['Section Number']}\n"
+                f"Chapter Name: {section['Chapter Name']}\n"
+                f"Section Title: {section['Section Title']}\n"
+                f"Section Description: {section['Section Description']}"
+            )
+            prompt = (
+                "Determine if the following section is relevant and applicable to the user's query.\n"
+                "Only return 'yes' if the section directly helps in resolving or addressing the scenario described.\n\n"
+                f"User Query: {final_query}\n\n"
+                f"Section:\n{section_text}\n\n"
+                "Is this section relevant to the query? Answer only 'yes' or 'no'."
+            )
+            response = generate_gemini_response(prompt)
+            if response.strip().lower().startswith("yes"):
+                section_dict = section[["Section Number", "Chapter Number", "Chapter Name", "Section Title", "Section Description"]].to_dict()
+                section_dict["similarity"] = round(float(similarities[idx]), 4)
+                validated_sections.append(section_dict)
+        return validated_sections
 
-    def get_top_scenarios(self, query: str, top_k: int = 5):
-        query_vector = self.model_embed.encode(query)
+    def get_top_scenarios(self, query: str, history: list = None, top_k: int = 5):
+        final_query = ""
+        for chat in history:
+            if chat['role'] == "user":
+                final_query = final_query + chat['parts'][0]['text']
+        final_query = final_query + query
+        query_vector = self.model_embed.encode(final_query)
         vectors = np.array(self.df["Vector"].tolist())
         similarities = cosine_similarity([query_vector], vectors)[0]
         top_indices = similarities.argsort()[-top_k:][::-1]
-        return self.df.iloc[top_indices][["Section Number", "Chapter Number", "Chapter Name", "Section Title", "Section Description"]].to_dict(orient="records")
+        validated_sections = self.get_validated_scenarios(final_query, top_indices)
+        return validated_sections

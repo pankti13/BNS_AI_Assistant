@@ -16,7 +16,7 @@ async def handle_query(payload: QueryInput):
         if scenario_service.is_scenario_query(query, history):
             return {
                 "type": "scenario", 
-                "results": scenario_service.get_top_scenarios(query)
+                "results": scenario_service.get_top_scenarios(query, history)
             }
         else:
             return {
