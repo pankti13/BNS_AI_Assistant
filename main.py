@@ -1,10 +1,10 @@
-from typing import Union
 from fastapi import FastAPI
+from routes.query_handler import router as query_router
 
 app = FastAPI()
 
-# fetch user-input query => check whether it is a "scenario" or not => return top 5 scenarios (using nearest neighbours using embeddings) in json form else let gemini handle the greeting msgs
 @app.get("/")
 def read_root():
-    return {"Hello World"}
+    return {"message": "Hello, World"}
 
+app.include_router(query_router)
