@@ -71,4 +71,5 @@ class ScenarioService:
         similarities = cosine_similarity([query_vector], vectors)[0]
         top_indices = similarities.argsort()[-top_k:][::-1]
         validated_sections = self.get_validated_scenarios(final_query, top_indices)
+        validated_sections = sorted(validated_sections, key=lambda x: x["Similarity"], reverse=True)
         return validated_sections
