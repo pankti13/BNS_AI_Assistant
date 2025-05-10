@@ -1,13 +1,21 @@
 import numpy as np
 import pandas as pd
+import os
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from services.gemini_service import generate_gemini_response
 from services.utils import fix_array_string
 
 class ScenarioService:
-    def __init__(self):
-        self.DATASET_PATH = "data/Updated_BNS_Dataset.csv"
+    def __init__(self, dataset_path=None):
+        if dataset_path is None:
+            try:
+                root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
+            except NameError:
+                root_dir = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
+            dataset_path = os.path.join(root_dir, "data", "Updated_BNS_Dataset.csv")
+
+        self.DATASET_PATH = dataset_path
         self.model_embed = SentenceTransformer("all-mpnet-base-v2")
         self.df = self._load_dataset()
 
