@@ -68,7 +68,7 @@ class ScenarioService:
                 validated_sections.append(section_dict)
         return validated_sections
 
-    def get_top_scenarios(self, query: str, history: list = None, top_k: int = 5):
+    def get_top_scenarios(self, query: str, history: list = None, top_k: int = 5, validate_with_api: bool = True):
         final_query = ""
         for chat in history:
             if chat['role'] == "user":
@@ -78,6 +78,19 @@ class ScenarioService:
         vectors = np.array(self.df["Vector"].tolist())
         similarities = cosine_similarity([query_vector], vectors)[0]
         top_indices = similarities.argsort()[-top_k:][::-1]
-        validated_sections = self.get_validated_scenarios(final_query, top_indices)
-        validated_sections = sorted(validated_sections, key=lambda x: x["Similarity"], reverse=True)
-        return validated_sections
+        if validate_with_api:
+            validated_sections = self.get_validated_scenarios(final_query, top_indices)
+            validated_sections = sorted(validated_sections, key=lambda x: x["Similarity"], reverse=True)
+            return validated_sections
+        else:
+            return sorted(
+                [
+                    {
+                        "Section Number": self.df.iloc[i]["Section Number"],
+                        "Similarity": similarities[i]
+                    }
+                    for i in top_indices
+                ],
+                key=lambda x: x["Similarity"],
+                reverse=True
+            )
