@@ -1,0 +1,5938 @@
+[
+  {
+    "scenario": "A group of individuals conspire to overthrow the government by force, planning attacks on government buildings and inciting rebellion.",
+    "ipc_sections": [
+      "121A",
+      "122"
+    ]
+  },
+  {
+    "scenario": "A person collects weapons and ammunition with the intention of waging war against the Indian government.",
+    "ipc_sections": [
+      "122"
+    ]
+  },
+  {
+    "scenario": "An individual learns about a plot to wage war against India but conceals this information from the authorities.",
+    "ipc_sections": [
+      "123"
+    ]
+  },
+  {
+    "scenario": "A group of protestors violently confront the Governor of a state, attempting to force him to release certain prisoners.",
+    "ipc_sections": [
+      "124"
+    ]
+  },
+  {
+    "scenario": "A person publishes inflammatory articles online, inciting hatred and disaffection towards the Indian government.",
+    "ipc_sections": [
+      "124A"
+    ]
+  },
+  {
+    "scenario": "An individual provides financial support to a group planning to wage war against a neighboring country that is allied with India.",
+    "ipc_sections": [
+      "125"
+    ]
+  },
+  {
+    "scenario": "A group of militants launch attacks on the territory of a country that is at peace with India, causing significant damage.",
+    "ipc_sections": [
+      "126"
+    ]
+  },
+  {
+    "scenario": "A person knowingly receives stolen goods that were taken during an attack on a foreign embassy in India.",
+    "ipc_sections": [
+      "127",
+      "126"
+    ]
+  },
+  {
+    "scenario": "A prison guard intentionally allows a high-profile terrorist, who is a state prisoner, to escape from jail.",
+    "ipc_sections": [
+      "128"
+    ]
+  },
+  {
+    "scenario": "A group of individuals conspire to wage war against India and collect arms for that purpose.",
+    "ipc_sections": [
+      "121A",
+      "122"
+    ]
+  },
+  {
+    "scenario": "Someone hides information about a planned attack on a government building, knowing it will facilitate the attack.",
+    "ipc_sections": [
+      "123",
+      "121A"
+    ]
+  },
+  {
+    "scenario": "A person assaults the President of India with the intention of compelling him to sign a controversial bill.",
+    "ipc_sections": [
+      "124"
+    ]
+  },
+  {
+    "scenario": "An individual makes a speech that incites violence and hatred against the government.",
+    "ipc_sections": [
+      "124A"
+    ]
+  },
+  {
+    "scenario": "A person provides weapons to a group planning to attack a country allied with India.",
+    "ipc_sections": [
+      "125"
+    ]
+  },
+  {
+    "scenario": "A group of individuals destroy property in a country that is at peace with India.",
+    "ipc_sections": [
+      "126"
+    ]
+  },
+  {
+    "scenario": "Someone receives money knowing it was stolen during an act of war against a country allied with India.",
+    "ipc_sections": [
+      "127",
+      "125"
+    ]
+  },
+  {
+    "scenario": "A police officer intentionally helps a prisoner of war escape from custody.",
+    "ipc_sections": [
+      "128"
+    ]
+  },
+  {
+    "scenario": "A group plans to use criminal force to intimidate the central government.",
+    "ipc_sections": [
+      "121A"
+    ]
+  },
+  {
+    "scenario": "An individual collects funds to support a war against a friendly nation, and hides this activity from authorities.",
+    "ipc_sections": [
+      "125",
+      "123"
+    ]
+  },
+  {
+    "scenario": "A public servant helps a state prisoner escape, and then receives stolen property from a raid on a friendly nation.",
+    "ipc_sections": [
+      "128",
+      "127"
+    ]
+  },
+  {
+    "scenario": "A jail warden, distracted by a personal phone call, fails to notice a state prisoner scaling the wall and escaping.",
+    "ipc_sections": [
+      "129"
+    ]
+  },
+  {
+    "scenario": "A civilian provides a rope ladder and a map to a prisoner of war, helping him escape from a detention camp.",
+    "ipc_sections": [
+      "130"
+    ]
+  },
+  {
+    "scenario": "A political activist delivers a fiery speech to a group of soldiers, urging them to disobey orders and overthrow the government.",
+    "ipc_sections": [
+      "131"
+    ]
+  },
+  {
+    "scenario": "Following a speech inciting mutiny, a group of naval officers seize control of their ship and declare their independence.",
+    "ipc_sections": [
+      "131",
+      "132"
+    ]
+  },
+  {
+    "scenario": "A civilian encourages a soldier to punch his commanding officer during a training exercise.",
+    "ipc_sections": [
+      "133"
+    ]
+  },
+  {
+    "scenario": "A civilian convinces a soldier to strike his superior officer, and the soldier subsequently attacks the officer.",
+    "ipc_sections": [
+      "133",
+      "134"
+    ]
+  },
+  {
+    "scenario": "A man provides financial assistance and a fake passport to a naval officer who wants to leave the service.",
+    "ipc_sections": [
+      "135"
+    ]
+  },
+  {
+    "scenario": "A woman, knowing her brother is a deserter from the Air Force, allows him to stay in her apartment.",
+    "ipc_sections": [
+      "136"
+    ]
+  },
+  {
+    "scenario": "A captain of a cargo ship fails to conduct proper checks, resulting in a deserted army officer being hidden in the cargo hold. The captain should have known with proper checks.",
+    "ipc_sections": [
+      "137"
+    ]
+  },
+  {
+    "scenario": "A civilian encourages a soldier to refuse to follow a lawful order, and the soldier subsequently disobeys the order.",
+    "ipc_sections": [
+      "138"
+    ]
+  },
+  {
+    "scenario": "A public servant responsible for guarding a prisoner of war falls asleep on duty, allowing the prisoner to escape.",
+    "ipc_sections": [
+      "129"
+    ]
+  },
+  {
+    "scenario": "A group of individuals conspire to break a state prisoner out of jail, providing weapons and transportation.",
+    "ipc_sections": [
+      "130"
+    ]
+  },
+  {
+    "scenario": "A radical leader publishes articles and gives speeches advocating for soldiers to rebel against their superiors.",
+    "ipc_sections": [
+      "131"
+    ]
+  },
+  {
+    "scenario": "Due to constant instigation, a group of airmen stage a full-scale mutiny, seizing control of an airbase.",
+    "ipc_sections": [
+      "131",
+      "132"
+    ]
+  },
+  {
+    "scenario": "A disgruntled civilian tells a soldier that his commanding officer is corrupt and encourages him to physically confront him.",
+    "ipc_sections": [
+      "133"
+    ]
+  },
+  {
+    "scenario": "After being egged on, a sailor punches his superior officer in the face during a disciplinary hearing.",
+    "ipc_sections": [
+      "133",
+      "134"
+    ]
+  },
+  {
+    "scenario": "A former soldier provides a detailed plan and resources to help a current soldier desert the army.",
+    "ipc_sections": [
+      "135"
+    ]
+  },
+  {
+    "scenario": "A family provides shelter and food to their son, who they know has deserted from the Navy.",
+    "ipc_sections": [
+      "136"
+    ]
+  },
+  {
+    "scenario": "The captain of a merchant vessel is found to have lax security measures, leading to a deserted airman being smuggled aboard. The captain was negligent in his duties.",
+    "ipc_sections": [
+      "137"
+    ]
+  },
+  {
+    "scenario": "A civilian convinces a soldier to disobey a direct order from his commanding officer, leading to a minor act of insubordination.",
+    "ipc_sections": [
+      "138"
+    ]
+  },
+  {
+    "scenario": "A man, not a military member, wears a full army uniform to a party, claiming to be a decorated war hero to impress guests.",
+    "ipc_sections": [
+      "140"
+    ]
+  },
+  {
+    "scenario": "A group of protestors, initially peaceful, refuse to disperse after being ordered by police. They then start throwing stones.",
+    "ipc_sections": [
+      "145",
+      "146",
+      "147"
+    ]
+  },
+  {
+    "scenario": "During a riot, a rioter uses a metal pipe to attack a police officer.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "148",
+      "152"
+    ]
+  },
+  {
+    "scenario": "A group gathers unlawfully with the intent to vandalize public property. One member sets a car on fire.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "149"
+    ]
+  },
+  {
+    "scenario": "A local politician pays people to join a protest that turns violent.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "150"
+    ]
+  },
+  {
+    "scenario": "Five people continue to block a road after being ordered by police to clear the area, causing a traffic jam.",
+    "ipc_sections": [
+      "151"
+    ]
+  },
+  {
+    "scenario": "A mob attacks a police officer trying to arrest a suspect during a riot.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "152"
+    ]
+  },
+  {
+    "scenario": "A person wears a fake naval officer's uniform to gain free entry into a restricted area.",
+    "ipc_sections": [
+      "140"
+    ]
+  },
+  {
+    "scenario": "A group of people, part of an unlawful assembly, start damaging shops and vehicles.",
+    "ipc_sections": [
+      "146",
+      "147"
+    ]
+  },
+  {
+    "scenario": "A protest turns violent, and a protestor uses a knife to stab a counter-protestor.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "148",
+      "149"
+    ]
+  },
+  {
+    "scenario": "Someone hires individuals to disrupt a political rally, leading to a riot.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "150"
+    ]
+  },
+  {
+    "scenario": "A group of six people refuse to leave a public park after closing hours, despite repeated warnings from security.",
+    "ipc_sections": [
+      "151"
+    ]
+  },
+  {
+    "scenario": "A crowd throws stones at firefighters trying to put out a fire during a riot.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "152"
+    ]
+  },
+  {
+    "scenario": "A man wears a modified air force uniform to solicit donations, claiming to be raising money for veterans.",
+    "ipc_sections": [
+      "140"
+    ]
+  },
+  {
+    "scenario": "An unlawful assembly blocks a highway, causing significant disruption to traffic.",
+    "ipc_sections": [
+      "145",
+      "146",
+      "147"
+    ]
+  },
+  {
+    "scenario": "During a riot, a member of the mob throws a Molotov cocktail, causing serious injuries.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "148",
+      "149"
+    ]
+  },
+  {
+    "scenario": "A person recruits others to join an unlawful assembly with the promise of financial rewards.",
+    "ipc_sections": [
+      "150"
+    ]
+  },
+  {
+    "scenario": "A group of seven people continue to shout slogans and create a disturbance outside a government building after being ordered to disperse.",
+    "ipc_sections": [
+      "151"
+    ]
+  },
+  {
+    "scenario": "A mob physically assaults police officers attempting to arrest the leaders of an unlawful assembly.",
+    "ipc_sections": [
+      "146",
+      "147",
+      "152"
+    ]
+  },
+  {
+    "scenario": "A person wears a military uniform to falsely claim benefits intended for veterans.",
+    "ipc_sections": [
+      "140"
+    ]
+  },
+  {
+    "scenario": "A group of individuals, fueled by religious animosity, organize a rally where they chant slogans inciting violence against a minority community, leading to clashes.",
+    "ipc_sections": [
+      "153A",
+      "153B",
+      "159"
+    ]
+  },
+  {
+    "scenario": "A landowner, aware of simmering tensions between two communities over a land dispute, fails to inform the police about an impending gathering on his property, which subsequently turns into a riot.",
+    "ipc_sections": [
+      "154",
+      "155"
+    ]
+  },
+  {
+    "scenario": "A political leader delivers a speech that falsely accuses a particular community of disloyalty to the nation, causing widespread resentment and potential unrest.",
+    "ipc_sections": [
+      "153B"
+    ]
+  },
+  {
+    "scenario": "A group of people are hired to disrupt a peaceful protest by force. The person hiring them provides them with weapons.",
+    "ipc_sections": [
+      "157",
+      "158"
+    ]
+  },
+  {
+    "scenario": "Two rival gangs engage in a violent brawl in a crowded marketplace, disrupting public order and causing fear among bystanders.",
+    "ipc_sections": [
+      "159"
+    ]
+  },
+  {
+    "scenario": "A religious leader makes inflammatory statements during a sermon, inciting hatred and violence against another religious group.",
+    "ipc_sections": [
+      "153A",
+      "153B"
+    ]
+  },
+  {
+    "scenario": "A social media post spreads misinformation about a particular community, leading to widespread panic and calls for violence.",
+    "ipc_sections": [
+      "153A",
+      "153B"
+    ]
+  },
+  {
+    "scenario": "A group of individuals, motivated by caste prejudice, attack members of a lower caste community, resulting in injuries and property damage.",
+    "ipc_sections": [
+      "153A",
+      "159"
+    ]
+  },
+  {
+    "scenario": "A landowner hires goons to intimidate villagers who are protesting against a construction project on disputed land. A riot ensues.",
+    "ipc_sections": [
+      "155",
+      "158"
+    ]
+  },
+  {
+    "scenario": "A group of students engage in a heated argument that escalates into a physical fight in a public park, disturbing the peace.",
+    "ipc_sections": [
+      "159"
+    ]
+  },
+  {
+    "scenario": "An individual, knowing that a riot is about to break out, provides shelter to individuals who are planning to participate in the violence.",
+    "ipc_sections": [
+      "157"
+    ]
+  },
+  {
+    "scenario": "A person makes a public statement asserting that a particular religious group should be denied their rights as citizens of India.",
+    "ipc_sections": [
+      "153B"
+    ]
+  },
+  {
+    "scenario": "A group organizes a training camp where participants are taught how to use weapons against members of a specific community.",
+    "ipc_sections": [
+      "153A"
+    ]
+  },
+  {
+    "scenario": "A person provokes another person with the intention of causing a riot, and a riot subsequently occurs.",
+    "ipc_sections": [
+      "153"
+    ]
+  },
+  {
+    "scenario": "A manager of a property, aware of a potential riot, fails to take any steps to prevent it, and the riot occurs on the property.",
+    "ipc_sections": [
+      "154",
+      "156"
+    ]
+  },
+  {
+    "scenario": "A person is hired to join an unlawful assembly and carries a knife with them.",
+    "ipc_sections": [
+      "158"
+    ]
+  },
+  {
+    "scenario": "Two groups of people, with prior animosity, start fighting in a public place, disrupting the peace and causing fear among onlookers.",
+    "ipc_sections": [
+      "159"
+    ]
+  },
+  {
+    "scenario": "A person makes a statement that a particular community cannot be loyal to the Constitution of India.",
+    "ipc_sections": [
+      "153B"
+    ]
+  },
+  {
+    "scenario": "A person harbors individuals who they know have been hired to participate in an unlawful assembly.",
+    "ipc_sections": [
+      "157"
+    ]
+  },
+  {
+    "scenario": "A person provokes another person, knowing it is likely to cause a riot, but a riot does not occur.",
+    "ipc_sections": [
+      "153"
+    ]
+  },
+  {
+    "scenario": "A group of people engage in a heated argument in a public market, leading to physical altercations and disruption of public order.",
+    "ipc_sections": [
+      "160"
+    ]
+  },
+  {
+    "scenario": "A police officer refuses to register a complaint of sexual harassment filed by a woman.",
+    "ipc_sections": [
+      "166A"
+    ]
+  },
+  {
+    "scenario": "A government official demands a bribe from a citizen in exchange for processing their application.",
+    "ipc_sections": [
+      "161"
+    ]
+  },
+  {
+    "scenario": "A doctor at a government hospital refuses to provide immediate medical assistance to a victim of acid attack.",
+    "ipc_sections": [
+      "166B"
+    ]
+  },
+  {
+    "scenario": "A public servant intentionally ignores a court order, causing financial loss to a business.",
+    "ipc_sections": [
+      "166"
+    ]
+  },
+  {
+    "scenario": "Two rival political groups clash during a rally, resulting in a violent brawl in the streets.",
+    "ipc_sections": [
+      "160"
+    ]
+  },
+  {
+    "scenario": "A police officer detains a suspect without informing them of the grounds for arrest.",
+    "ipc_sections": [
+      "166A"
+    ]
+  },
+  {
+    "scenario": "A government employee accepts a gift from a contractor in exchange for awarding them a lucrative project.",
+    "ipc_sections": [
+      "165"
+    ]
+  },
+  {
+    "scenario": "A hospital administrator denies admission to a rape victim, citing lack of beds.",
+    "ipc_sections": [
+      "166B"
+    ]
+  },
+  {
+    "scenario": "A revenue officer deliberately delays the processing of a land record, causing hardship to a farmer.",
+    "ipc_sections": [
+      "166"
+    ]
+  },
+  {
+    "scenario": "A group of neighbors get into a fight over a parking spot, disturbing the peace in their residential area.",
+    "ipc_sections": [
+      "160"
+    ]
+  },
+  {
+    "scenario": "A police officer demands money from a shopkeeper to avoid filing a false complaint against them.",
+    "ipc_sections": [
+      "161"
+    ]
+  },
+  {
+    "scenario": "A public servant uses their influence to secure a government contract for a relative's company.",
+    "ipc_sections": [
+      "163"
+    ]
+  },
+  {
+    "scenario": "A hospital refuses to provide free medical treatment to an accident victim, as mandated by law.",
+    "ipc_sections": [
+      "166B"
+    ]
+  },
+  {
+    "scenario": "A government official knowingly violates environmental regulations, causing pollution in a nearby river.",
+    "ipc_sections": [
+      "166"
+    ]
+  },
+  {
+    "scenario": "A fight breaks out between two groups of students in a college canteen.",
+    "ipc_sections": [
+      "160"
+    ]
+  },
+  {
+    "scenario": "A police officer refuses to investigate a complaint of domestic violence.",
+    "ipc_sections": [
+      "166A"
+    ]
+  },
+  {
+    "scenario": "A public servant accepts a bribe to expedite the approval of a building plan.",
+    "ipc_sections": [
+      "162"
+    ]
+  },
+  {
+    "scenario": "A hospital fails to provide necessary medical care to a pregnant woman, leading to complications.",
+    "ipc_sections": [
+      "166B"
+    ]
+  },
+  {
+    "scenario": "A government official misuses their authority to harass a subordinate.",
+    "ipc_sections": [
+      "166"
+    ]
+  },
+  {
+    "scenario": "A government clerk intentionally alters a land record to favor a relative, causing financial loss to another party.",
+    "ipc_sections": [
+      "167"
+    ]
+  },
+  {
+    "scenario": "A police officer runs a side business selling confiscated goods without authorization.",
+    "ipc_sections": [
+      "168"
+    ]
+  },
+  {
+    "scenario": "A revenue officer secretly bids on a property being auctioned by the government, using his brother's name.",
+    "ipc_sections": [
+      "169"
+    ]
+  },
+  {
+    "scenario": "A man dresses up as a CBI officer and extorts money from a local businessman.",
+    "ipc_sections": [
+      "170",
+      "419"
+    ]
+  },
+  {
+    "scenario": "During an election, a candidate distributes cash to voters to influence their decision.",
+    "ipc_sections": [
+      "171B",
+      "171E"
+    ]
+  },
+  {
+    "scenario": "A local goon threatens voters in a village to vote for a particular candidate.",
+    "ipc_sections": [
+      "171C"
+    ]
+  },
+  {
+    "scenario": "A person votes twice in the same election, using their own name at different polling booths.",
+    "ipc_sections": [
+      "171D"
+    ]
+  },
+  {
+    "scenario": "A political party offers free liquor to voters on the eve of elections.",
+    "ipc_sections": [
+      "171B",
+      "171E"
+    ]
+  },
+  {
+    "scenario": "A government employee, responsible for maintaining official documents, deliberately destroys a crucial file to protect a corrupt politician.",
+    "ipc_sections": [
+      "167",
+      "201"
+    ]
+  },
+  {
+    "scenario": "A retired government official pretends to still hold his former position and uses it to gain favors.",
+    "ipc_sections": [
+      "170"
+    ]
+  },
+  {
+    "scenario": "A person wears a police uniform to intimidate people and demand money.",
+    "ipc_sections": [
+      "171",
+      "384"
+    ]
+  },
+  {
+    "scenario": "A candidate promises to build a temple in a village if they win the election, implying divine displeasure if voters don't support them.",
+    "ipc_sections": [
+      "171C"
+    ]
+  },
+  {
+    "scenario": "A person casts a vote in the name of a deceased relative during an election.",
+    "ipc_sections": [
+      "171D"
+    ]
+  },
+  {
+    "scenario": "A public servant accepts a bribe to approve a building plan that violates regulations.",
+    "ipc_sections": [
+      "168",
+      "171E"
+    ]
+  },
+  {
+    "scenario": "A government official leaks confidential information about a tender to a specific company in exchange for a kickback.",
+    "ipc_sections": [
+      "167",
+      "168"
+    ]
+  },
+  {
+    "scenario": "During an election, a group of people prevents voters from reaching the polling booth.",
+    "ipc_sections": [
+      "171C",
+      "341"
+    ]
+  },
+  {
+    "scenario": "A person impersonates a polling officer and manipulates the voting machine.",
+    "ipc_sections": [
+      "170",
+      "171D"
+    ]
+  },
+  {
+    "scenario": "A government doctor runs a private clinic after duty hours, violating service rules.",
+    "ipc_sections": [
+      "168"
+    ]
+  },
+  {
+    "scenario": "A municipal officer buys a property that was declared illegal and was about to be demolished by the municipality.",
+    "ipc_sections": [
+      "169"
+    ]
+  },
+  {
+    "scenario": "A person wears an army uniform to gain access to a restricted area.",
+    "ipc_sections": [
+      "171",
+      "140"
+    ]
+  },
+  {
+    "scenario": "During an election, a candidate publishes a pamphlet containing false statements about their opponent's financial history, intending to damage their reputation and influence voters.",
+    "ipc_sections": [
+      "171G"
+    ]
+  },
+  {
+    "scenario": "A person, required to appear in court as a witness, receives a summons but deliberately avoids it by staying at a friend's house and not answering their phone.",
+    "ipc_sections": [
+      "172",
+      "174"
+    ]
+  },
+  {
+    "scenario": "A group of supporters organizes a rally for a political candidate without obtaining written permission from the candidate and incurs expenses for renting the venue.",
+    "ipc_sections": [
+      "171H"
+    ]
+  },
+  {
+    "scenario": "An individual, legally obligated to maintain records of election expenses, fails to do so, resulting in incomplete and inaccurate financial reports.",
+    "ipc_sections": [
+      "171I"
+    ]
+  },
+  {
+    "scenario": "A person tears down a court notice that was legally affixed to their door, preventing them from being informed about a pending legal case.",
+    "ipc_sections": [
+      "173"
+    ]
+  },
+  {
+    "scenario": "An individual, legally bound to produce certain financial documents to a tax officer, intentionally refuses to do so.",
+    "ipc_sections": [
+      "175"
+    ]
+  },
+  {
+    "scenario": "A person, knowing about a planned robbery in their neighborhood, fails to inform the police, despite being legally obligated to do so.",
+    "ipc_sections": [
+      "176"
+    ]
+  },
+  {
+    "scenario": "A proclaimed offender, who was required to appear in court after a public proclamation, fails to appear at the specified time and place.",
+    "ipc_sections": [
+      "174A"
+    ]
+  },
+  {
+    "scenario": "During an election, a person impersonates another voter to cast an illegal vote.",
+    "ipc_sections": [
+      "171F"
+    ]
+  },
+  {
+    "scenario": "A person, summoned to court as a witness, attends the court but leaves before being dismissed by the judge.",
+    "ipc_sections": [
+      "174"
+    ]
+  },
+  {
+    "scenario": "A candidate's campaign manager intentionally prevents a public servant from serving a notice to the candidate regarding campaign finance violations.",
+    "ipc_sections": [
+      "173"
+    ]
+  },
+  {
+    "scenario": "A person, legally required to provide information about their assets to a government agency, intentionally provides false information.",
+    "ipc_sections": [
+      "176"
+    ]
+  },
+  {
+    "scenario": "An individual, evading arrest, absconds to a different state to avoid being served with a warrant.",
+    "ipc_sections": [
+      "172",
+      "174A"
+    ]
+  },
+  {
+    "scenario": "A political party publishes an advertisement containing false allegations about a rival candidate's health, intending to sway public opinion.",
+    "ipc_sections": [
+      "171G"
+    ]
+  },
+  {
+    "scenario": "A person, legally bound to produce their passport to an immigration officer, intentionally refuses to do so.",
+    "ipc_sections": [
+      "175"
+    ]
+  },
+  {
+    "scenario": "A candidate pays voters to vote for them, using undue influence.",
+    "ipc_sections": [
+      "171F"
+    ]
+  },
+  {
+    "scenario": "A person removes a notice from a public notice board that was legally placed there by a government official.",
+    "ipc_sections": [
+      "173"
+    ]
+  },
+  {
+    "scenario": "A person fails to appear in court after being declared a proclaimed offender.",
+    "ipc_sections": [
+      "174A"
+    ]
+  },
+  {
+    "scenario": "A person intentionally hides a document that they are legally required to produce to a public servant.",
+    "ipc_sections": [
+      "175"
+    ]
+  },
+  {
+    "scenario": "A person, legally required to report a crime, intentionally omits to do so.",
+    "ipc_sections": [
+      "176"
+    ]
+  },
+  {
+    "scenario": "A witness in a court case knowingly provides false information about the events they witnessed to the police during the investigation.",
+    "ipc_sections": [
+      "177",
+      "181"
+    ]
+  },
+  {
+    "scenario": "During a police raid, a person refuses to open the door and actively prevents the police from entering the premises.",
+    "ipc_sections": [
+      "183",
+      "186"
+    ]
+  },
+  {
+    "scenario": "A person refuses to take an oath in court when asked to testify.",
+    "ipc_sections": [
+      "178",
+      "179"
+    ]
+  },
+  {
+    "scenario": "A person provides false information to a government official with the intention of getting a rival business shut down.",
+    "ipc_sections": [
+      "182"
+    ]
+  },
+  {
+    "scenario": "During an auction of seized property, a person disrupts the bidding process by shouting and making false claims about the property's condition.",
+    "ipc_sections": [
+      "184",
+      "186"
+    ]
+  },
+  {
+    "scenario": "A person refuses to sign a statement given to a police officer during an investigation.",
+    "ipc_sections": [
+      "180"
+    ]
+  },
+  {
+    "scenario": "A person, knowing that their friend is legally barred from purchasing property at auction, bids on their behalf.",
+    "ipc_sections": [
+      "185"
+    ]
+  },
+  {
+    "scenario": "A group of protestors block a public road, preventing government vehicles from passing.",
+    "ipc_sections": [
+      "186"
+    ]
+  },
+  {
+    "scenario": "A person gives false information to a health inspector about the cleanliness of a restaurant, leading to its temporary closure.",
+    "ipc_sections": [
+      "182"
+    ]
+  },
+  {
+    "scenario": "During a tax audit, a person refuses to answer questions posed by the tax officer.",
+    "ipc_sections": [
+      "179"
+    ]
+  },
+  {
+    "scenario": "A person, under oath, lies about their income to avoid paying taxes.",
+    "ipc_sections": [
+      "181"
+    ]
+  },
+  {
+    "scenario": "A person physically prevents a bailiff from seizing property under a court order.",
+    "ipc_sections": [
+      "183",
+      "186"
+    ]
+  },
+  {
+    "scenario": "A person intentionally sabotages an auction by making a high bid and then refusing to pay.",
+    "ipc_sections": [
+      "185"
+    ]
+  },
+  {
+    "scenario": "A person provides false information to the police about a crime, causing them to waste time and resources investigating a false lead.",
+    "ipc_sections": [
+      "177",
+      "182"
+    ]
+  },
+  {
+    "scenario": "A person refuses to provide their name and address to a police officer who is investigating a traffic accident.",
+    "ipc_sections": [
+      "179"
+    ]
+  },
+  {
+    "scenario": "A person, knowing that a property is under dispute, bids on it at a public auction with no intention of completing the purchase.",
+    "ipc_sections": [
+      "185"
+    ]
+  },
+  {
+    "scenario": "A person obstructs a fire fighter from putting out a fire.",
+    "ipc_sections": [
+      "186"
+    ]
+  },
+  {
+    "scenario": "A person gives false information to a building inspector about the safety of a construction project.",
+    "ipc_sections": [
+      "182"
+    ]
+  },
+  {
+    "scenario": "A person refuses to sign a confession statement after being arrested.",
+    "ipc_sections": [
+      "180"
+    ]
+  },
+  {
+    "scenario": "A person resists the police when they try to confiscate illegal weapons.",
+    "ipc_sections": [
+      "183",
+      "186"
+    ]
+  },
+  {
+    "scenario": "A police officer asks a bystander to help restrain a suspect resisting arrest, but the bystander refuses.",
+    "ipc_sections": [
+      "187"
+    ]
+  },
+  {
+    "scenario": "During a protest, a demonstrator knowingly violates a curfew order issued by the local authorities.",
+    "ipc_sections": [
+      "188"
+    ]
+  },
+  {
+    "scenario": "A person threatens a government employee with harm if they don't approve a building permit.",
+    "ipc_sections": [
+      "189"
+    ]
+  },
+  {
+    "scenario": "A local goon threatens a witness to prevent them from seeking police protection against harassment.",
+    "ipc_sections": [
+      "190"
+    ]
+  },
+  {
+    "scenario": "A witness in a court case knowingly provides false information under oath.",
+    "ipc_sections": [
+      "191",
+      "193"
+    ]
+  },
+  {
+    "scenario": "A person alters financial records to make it appear as though a debt has been paid, intending to use this altered record in court.",
+    "ipc_sections": [
+      "192",
+      "193"
+    ]
+  },
+  {
+    "scenario": "A person creates a fake document and presents it as evidence in a property dispute case.",
+    "ipc_sections": [
+      "192",
+      "193"
+    ]
+  },
+  {
+    "scenario": "A person gives false testimony in court, leading to an innocent person being wrongly convicted of a crime punishable by imprisonment.",
+    "ipc_sections": [
+      "193"
+    ]
+  },
+  {
+    "scenario": "A person fabricates evidence with the intention of getting someone convicted of murder.",
+    "ipc_sections": [
+      "192",
+      "194"
+    ]
+  },
+  {
+    "scenario": "A person gives false evidence in court, resulting in an innocent person being convicted of a serious assault charge.",
+    "ipc_sections": [
+      "193",
+      "195"
+    ]
+  },
+  {
+    "scenario": "A gang leader threatens a potential witness with violence if they testify against him in court.",
+    "ipc_sections": [
+      "195A"
+    ]
+  },
+  {
+    "scenario": "A person threatens a witness to prevent them from reporting a crime to the police.",
+    "ipc_sections": [
+      "190",
+      "195A"
+    ]
+  },
+  {
+    "scenario": "A person refuses to assist a police officer in preventing a robbery in progress.",
+    "ipc_sections": [
+      "187"
+    ]
+  },
+  {
+    "scenario": "A group of protestors deliberately violates a ban on public gatherings imposed by the authorities.",
+    "ipc_sections": [
+      "188"
+    ]
+  },
+  {
+    "scenario": "A person threatens a judge to influence their decision in a case.",
+    "ipc_sections": [
+      "189"
+    ]
+  },
+  {
+    "scenario": "A person knowingly makes a false statement in an affidavit submitted to a government agency.",
+    "ipc_sections": [
+      "191"
+    ]
+  },
+  {
+    "scenario": "A person forges a signature on a document to make it appear as though someone else agreed to a contract, intending to use it in court.",
+    "ipc_sections": [
+      "192",
+      "193"
+    ]
+  },
+  {
+    "scenario": "A person gives false testimony in a trial, leading to the wrongful conviction of an individual for a crime carrying a seven-year prison sentence.",
+    "ipc_sections": [
+      "193",
+      "195"
+    ]
+  },
+  {
+    "scenario": "A person threatens a potential witness with harm to their family if they testify in a murder trial.",
+    "ipc_sections": [
+      "195A"
+    ]
+  },
+  {
+    "scenario": "A person fabricates evidence to frame someone for a crime they didn't commit, knowing it could lead to a lengthy prison sentence.",
+    "ipc_sections": [
+      "192",
+      "195"
+    ]
+  },
+  {
+    "scenario": "A lawyer knowingly presents a forged document as evidence in court to win a case for their client.",
+    "ipc_sections": [
+      "196",
+      "199",
+      "200"
+    ]
+  },
+  {
+    "scenario": "A doctor issues a false medical certificate stating that a suspect is unfit to attend court, knowing it's untrue.",
+    "ipc_sections": [
+      "197",
+      "198"
+    ]
+  },
+  {
+    "scenario": "A person finds a murder weapon and throws it into a river to protect their friend who committed the crime.",
+    "ipc_sections": [
+      "201"
+    ]
+  },
+  {
+    "scenario": "A witness to a robbery intentionally refuses to provide information to the police, despite being legally obligated to do so.",
+    "ipc_sections": [
+      "202"
+    ]
+  },
+  {
+    "scenario": "A person gives false information to the police about a theft, claiming they saw someone commit the crime when they didn't.",
+    "ipc_sections": [
+      "203"
+    ]
+  },
+  {
+    "scenario": "A company director destroys financial records that are subpoenaed by the court to prevent them from being used in a fraud investigation.",
+    "ipc_sections": [
+      "204"
+    ]
+  },
+  {
+    "scenario": "A person pretends to be someone else in court to post bail for a friend.",
+    "ipc_sections": [
+      "205"
+    ]
+  },
+  {
+    "scenario": "A witness in a defamation case makes a false statement under oath about the defendant's character.",
+    "ipc_sections": [
+      "199",
+      "200"
+    ]
+  },
+  {
+    "scenario": "A government official signs a false certificate of completion for a construction project, knowing it's incomplete.",
+    "ipc_sections": [
+      "197",
+      "198"
+    ]
+  },
+  {
+    "scenario": "A person hides a crucial piece of evidence in a hit-and-run case to protect the driver, who is their relative.",
+    "ipc_sections": [
+      "201"
+    ]
+  },
+  {
+    "scenario": "A person, legally bound to report a case of domestic violence, intentionally omits to do so.",
+    "ipc_sections": [
+      "202"
+    ]
+  },
+  {
+    "scenario": "A person provides false information to the police about the location of a stolen vehicle, knowing it's incorrect.",
+    "ipc_sections": [
+      "203"
+    ]
+  },
+  {
+    "scenario": "A person alters a contract to make it appear more favorable to them before submitting it as evidence in a lawsuit.",
+    "ipc_sections": [
+      "204",
+      "196"
+    ]
+  },
+  {
+    "scenario": "A person impersonates a defendant in a criminal trial and pleads guilty to the charges.",
+    "ipc_sections": [
+      "205"
+    ]
+  },
+  {
+    "scenario": "A person uses a fake ID to make a false declaration at a government office.",
+    "ipc_sections": [
+      "199",
+      "205",
+      "200"
+    ]
+  },
+  {
+    "scenario": "A forensic expert knowingly presents false findings in a murder trial.",
+    "ipc_sections": [
+      "196",
+      "199"
+    ]
+  },
+  {
+    "scenario": "A bank employee issues a false solvency certificate to a customer to help them secure a loan.",
+    "ipc_sections": [
+      "197",
+      "198"
+    ]
+  },
+  {
+    "scenario": "After witnessing a crime, a person destroys their phone which contains video evidence of the event.",
+    "ipc_sections": [
+      "201",
+      "204"
+    ]
+  },
+  {
+    "scenario": "A person, aware of a planned terrorist attack, intentionally fails to inform the authorities.",
+    "ipc_sections": [
+      "202"
+    ]
+  },
+  {
+    "scenario": "A person gives false testimony in court, claiming they saw the accused at the scene of the crime when they were actually somewhere else.",
+    "ipc_sections": [
+      "199"
+    ]
+  },
+  {
+    "scenario": "A man, facing a likely court order to seize his assets, transfers his house to his brother to avoid the seizure.",
+    "ipc_sections": [
+      "206"
+    ]
+  },
+  {
+    "scenario": "A woman falsely claims ownership of a car that is about to be seized by the court, knowing she has no right to it.",
+    "ipc_sections": [
+      "207"
+    ]
+  },
+  {
+    "scenario": "A debtor colludes with a friend to have a false decree passed against him, making it appear he owes the friend money, to avoid paying his actual creditors.",
+    "ipc_sections": [
+      "208"
+    ]
+  },
+  {
+    "scenario": "During a property dispute hearing, a person knowingly presents forged documents to the court to claim ownership.",
+    "ipc_sections": [
+      "209"
+    ]
+  },
+  {
+    "scenario": "A person fraudulently obtains a court order to seize the property of another person, claiming they owe him money when they don't.",
+    "ipc_sections": [
+      "210",
+      "209"
+    ]
+  },
+  {
+    "scenario": "A man, out of spite, files a false police report accusing his neighbor of theft, knowing the accusation is baseless.",
+    "ipc_sections": [
+      "211"
+    ]
+  },
+  {
+    "scenario": "A woman shelters her son, knowing he committed a murder, to protect him from the police.",
+    "ipc_sections": [
+      "212"
+    ]
+  },
+  {
+    "scenario": "A police officer accepts a bribe to drop charges against a suspect in a robbery case.",
+    "ipc_sections": [
+      "213"
+    ]
+  },
+  {
+    "scenario": "A family offers a large sum of money to a witness in a murder case to convince them not to testify.",
+    "ipc_sections": [
+      "214"
+    ]
+  },
+  {
+    "scenario": "A person agrees to help someone recover their stolen jewelry for a fee, but makes no effort to find the thief or inform the police.",
+    "ipc_sections": [
+      "215"
+    ]
+  },
+  {
+    "scenario": "A person facing a fine for tax evasion transfers his money to an offshore account to prevent the government from seizing it.",
+    "ipc_sections": [
+      "206"
+    ]
+  },
+  {
+    "scenario": "A man falsely claims to be the rightful heir to a property that is about to be auctioned off by the court.",
+    "ipc_sections": [
+      "207"
+    ]
+  },
+  {
+    "scenario": "A company director allows a false decree to be passed against his company to avoid paying debts to other creditors.",
+    "ipc_sections": [
+      "208"
+    ]
+  },
+  {
+    "scenario": "A lawyer knowingly presents false evidence in court to support his client's claim.",
+    "ipc_sections": [
+      "209"
+    ]
+  },
+  {
+    "scenario": "A person fraudulently obtains a court order to evict a tenant from their property, even though the tenant has a valid lease.",
+    "ipc_sections": [
+      "210"
+    ]
+  },
+  {
+    "scenario": "A woman files a false rape accusation against her ex-boyfriend to ruin his reputation.",
+    "ipc_sections": [
+      "211"
+    ]
+  },
+  {
+    "scenario": "A landlord hides a fugitive from the police in his apartment building.",
+    "ipc_sections": [
+      "212"
+    ]
+  },
+  {
+    "scenario": "A judge accepts a bribe to acquit a defendant in a corruption case.",
+    "ipc_sections": [
+      "213"
+    ]
+  },
+  {
+    "scenario": "A businessman offers a government official a bribe to conceal his illegal business activities.",
+    "ipc_sections": [
+      "214"
+    ]
+  },
+  {
+    "scenario": "A private investigator takes money to recover stolen goods but does not report the crime to the police or attempt to catch the thief.",
+    "ipc_sections": [
+      "215"
+    ]
+  },
+  {
+    "scenario": "A police officer, accepting a bribe, intentionally allows a murder suspect in his custody to escape.",
+    "ipc_sections": [
+      "221",
+      "222"
+    ]
+  },
+  {
+    "scenario": "A village headman knowingly shelters a group of armed robbers in his house after they committed a dacoity in a nearby town.",
+    "ipc_sections": [
+      "216A"
+    ]
+  },
+  {
+    "scenario": "A judge, influenced by political pressure, delivers a verdict against the law in a high-profile corruption case.",
+    "ipc_sections": [
+      "219"
+    ]
+  },
+  {
+    "scenario": "A jail warden, due to negligence, fails to secure a prisoner's cell, leading to the prisoner's escape.",
+    "ipc_sections": [
+      "223"
+    ]
+  },
+  {
+    "scenario": "A government clerk, tasked with maintaining land records, deliberately alters the records to favor a wealthy businessman, causing loss to several farmers.",
+    "ipc_sections": [
+      "218"
+    ]
+  },
+  {
+    "scenario": "A corrupt magistrate, with the intention of extorting money, orders the illegal confinement of a businessman.",
+    "ipc_sections": [
+      "220"
+    ]
+  },
+  {
+    "scenario": "A police officer, aware of an arrest warrant for a notorious criminal, intentionally avoids apprehending him.",
+    "ipc_sections": [
+      "221"
+    ]
+  },
+  {
+    "scenario": "A person helps a convict escape from prison, knowing that the convict was sentenced to life imprisonment for murder.",
+    "ipc_sections": [
+      "216"
+    ]
+  },
+  {
+    "scenario": "A public servant, instructed to seize illegally stored goods, intentionally overlooks a portion of the goods to benefit the owner.",
+    "ipc_sections": [
+      "217"
+    ]
+  },
+  {
+    "scenario": "A jailer intentionally helps a prisoner sentenced to death escape from jail.",
+    "ipc_sections": [
+      "222"
+    ]
+  },
+  {
+    "scenario": "A person provides shelter to a known robber, knowing that he has recently committed a robbery and intending to protect him from arrest.",
+    "ipc_sections": [
+      "216A"
+    ]
+  },
+  {
+    "scenario": "A police officer knowingly submits a false report in court to protect a suspect from punishment.",
+    "ipc_sections": [
+      "219"
+    ]
+  },
+  {
+    "scenario": "A prison guard negligently leaves a cell door unlocked, allowing a prisoner to escape.",
+    "ipc_sections": [
+      "223"
+    ]
+  },
+  {
+    "scenario": "A revenue officer falsifies property records to prevent the government from seizing illegally acquired land.",
+    "ipc_sections": [
+      "218"
+    ]
+  },
+  {
+    "scenario": "A corrupt official uses his authority to illegally detain a political opponent.",
+    "ipc_sections": [
+      "220"
+    ]
+  },
+  {
+    "scenario": "A police officer intentionally ignores information about a planned robbery, allowing it to occur.",
+    "ipc_sections": [
+      "221",
+      "216A"
+    ]
+  },
+  {
+    "scenario": "Someone hides a fugitive who escaped from custody while awaiting trial for a capital offense.",
+    "ipc_sections": [
+      "216"
+    ]
+  },
+  {
+    "scenario": "A government employee deliberately misinterprets a legal directive to prevent the confiscation of smuggled goods.",
+    "ipc_sections": [
+      "217"
+    ]
+  },
+  {
+    "scenario": "A prison official facilitates the escape of a prisoner serving a life sentence.",
+    "ipc_sections": [
+      "222"
+    ]
+  },
+  {
+    "scenario": "A public servant, responsible for maintaining custody of evidence, alters the records to protect a suspect.",
+    "ipc_sections": [
+      "218",
+      "217"
+    ]
+  },
+  {
+    "scenario": "A man, charged with theft, physically resists police officers attempting to arrest him at his home.",
+    "ipc_sections": [
+      "224",
+      "225B"
+    ]
+  },
+  {
+    "scenario": "A group of protestors forcibly prevent police from arresting a known criminal during a public demonstration.",
+    "ipc_sections": [
+      "225",
+      "225B"
+    ]
+  },
+  {
+    "scenario": "A police officer intentionally allows a prisoner accused of murder to escape from custody in exchange for a bribe.",
+    "ipc_sections": [
+      "225A"
+    ]
+  },
+  {
+    "scenario": "A person released on bail for a fraud charge fails to appear in court on the scheduled date without informing the court or providing a valid reason.",
+    "ipc_sections": [
+      "229A"
+    ]
+  },
+  {
+    "scenario": "During a court hearing, a defendant shouts insults at the judge and throws a water bottle at the witness stand, disrupting the proceedings.",
+    "ipc_sections": [
+      "228"
+    ]
+  },
+  {
+    "scenario": "A news website publishes the name and address of a rape victim, despite knowing the legal restrictions.",
+    "ipc_sections": [
+      "228A"
+    ]
+  },
+  {
+    "scenario": "A man, previously convicted of assault and granted a conditional release, violates the condition of abstaining from alcohol by getting drunk and causing a public disturbance.",
+    "ipc_sections": [
+      "227"
+    ]
+  },
+  {
+    "scenario": "A woman, knowing she is not eligible, pretends to be someone else and gets selected to serve on a jury in a high-profile murder trial.",
+    "ipc_sections": [
+      "229"
+    ]
+  },
+  {
+    "scenario": "A group of inmates overpower a prison guard and escape from jail. One inmate was serving time for petty theft, the other for armed robbery.",
+    "ipc_sections": [
+      "224",
+      "225B"
+    ]
+  },
+  {
+    "scenario": "A lawyer intentionally obstructs police officers from arresting his client, who is wanted for questioning in a hit-and-run case.",
+    "ipc_sections": [
+      "225",
+      "225B"
+    ]
+  },
+  {
+    "scenario": "A prison warden negligently allows a prisoner to escape due to a lapse in security protocols.",
+    "ipc_sections": [
+      "225A"
+    ]
+  },
+  {
+    "scenario": "A man, arrested for drunk driving, attempts to bribe the police officer to let him go.",
+    "ipc_sections": [
+      "224"
+    ]
+  },
+  {
+    "scenario": "A person released on bond for a drug trafficking charge flees the country to avoid trial.",
+    "ipc_sections": [
+      "229A"
+    ]
+  },
+  {
+    "scenario": "A spectator in a courtroom yells obscenities at the prosecutor during closing arguments.",
+    "ipc_sections": [
+      "228"
+    ]
+  },
+  {
+    "scenario": "A social media influencer reveals the identity of a sexual assault survivor in a video, leading to online harassment.",
+    "ipc_sections": [
+      "228A"
+    ]
+  },
+  {
+    "scenario": "A convict, granted parole on the condition of maintaining employment, quits his job and starts gambling.",
+    "ipc_sections": [
+      "227"
+    ]
+  },
+  {
+    "scenario": "A man impersonates a qualified professional to get selected as an assessor in a medical negligence case.",
+    "ipc_sections": [
+      "229"
+    ]
+  },
+  {
+    "scenario": "A group of people break into a police station to free their friend who is being held for questioning in a minor assault case.",
+    "ipc_sections": [
+      "225",
+      "225B"
+    ]
+  },
+  {
+    "scenario": "A police officer, tasked with guarding a suspect in a high-profile terrorism case, falls asleep on duty, allowing the suspect to escape.",
+    "ipc_sections": [
+      "225A"
+    ]
+  },
+  {
+    "scenario": "A man resists arrest for violating a restraining order, claiming the order was invalid.",
+    "ipc_sections": [
+      "224"
+    ]
+  },
+  {
+    "scenario": "Ramesh manufactures dies specifically designed for counterfeiting Indian coins in his workshop.",
+    "ipc_sections": [
+      "234"
+    ]
+  },
+  {
+    "scenario": "Sita, knowing they are fake, attempts to sell counterfeit coins to a local shopkeeper.",
+    "ipc_sections": [
+      "231",
+      "239"
+    ]
+  },
+  {
+    "scenario": "John imports a large shipment of counterfeit US dollars into India, knowing they are not genuine.",
+    "ipc_sections": [
+      "237"
+    ]
+  },
+  {
+    "scenario": "Maria, residing in India, provides financial assistance to a group in Nepal who are counterfeiting British Pounds.",
+    "ipc_sections": [
+      "236"
+    ]
+  },
+  {
+    "scenario": "David discovers a bag of counterfeit Indian coins in his newly purchased property and attempts to use them at a local market.",
+    "ipc_sections": [
+      "239"
+    ]
+  },
+  {
+    "scenario": "A group is caught in a warehouse with equipment and materials used for counterfeiting Indian coins.",
+    "ipc_sections": [
+      "232",
+      "235"
+    ]
+  },
+  {
+    "scenario": "A man is found selling tools used to make counterfeit coins.",
+    "ipc_sections": [
+      "233"
+    ]
+  },
+  {
+    "scenario": "A person knowingly exports counterfeit Indian coins out of India.",
+    "ipc_sections": [
+      "238"
+    ]
+  },
+  {
+    "scenario": "A person is caught with materials that can be used to make fake coins, and admits he was planning to use them for that purpose.",
+    "ipc_sections": [
+      "235"
+    ]
+  },
+  {
+    "scenario": "A person is making fake coins that are not Indian coins.",
+    "ipc_sections": [
+      "231"
+    ]
+  },
+  {
+    "scenario": "A person is caught buying equipment to make fake coins, knowing that it will be used for that purpose.",
+    "ipc_sections": [
+      "233"
+    ]
+  },
+  {
+    "scenario": "A person is caught with fake coins and tries to pass them off as real.",
+    "ipc_sections": [
+      "239"
+    ]
+  },
+  {
+    "scenario": "A person is caught importing fake Indian coins into India.",
+    "ipc_sections": [
+      "238"
+    ]
+  },
+  {
+    "scenario": "A person is caught exporting fake coins that are not Indian coins.",
+    "ipc_sections": [
+      "237"
+    ]
+  },
+  {
+    "scenario": "A person is caught making fake Indian coins.",
+    "ipc_sections": [
+      "232"
+    ]
+  },
+  {
+    "scenario": "A person is caught with equipment to make fake Indian coins.",
+    "ipc_sections": [
+      "235"
+    ]
+  },
+  {
+    "scenario": "A person is caught selling equipment to make fake Indian coins.",
+    "ipc_sections": [
+      "234"
+    ]
+  },
+  {
+    "scenario": "A person is caught making equipment to make fake coins.",
+    "ipc_sections": [
+      "233"
+    ]
+  },
+  {
+    "scenario": "A person is caught making equipment to make fake Indian coins.",
+    "ipc_sections": [
+      "234"
+    ]
+  },
+  {
+    "scenario": "A person is caught with fake coins and tries to convince someone to accept them.",
+    "ipc_sections": [
+      "239"
+    ]
+  },
+  {
+    "scenario": "Ramesh knowingly uses a counterfeit 5 rupee coin at a local grocery store, attempting to pass it off as genuine to buy snacks.",
+    "ipc_sections": [
+      "240",
+      "241"
+    ]
+  },
+  {
+    "scenario": "Suresh discovers a bag full of counterfeit 10 rupee coins in his abandoned property. He knows they are fake but keeps them with the intention of using them later.",
+    "ipc_sections": [
+      "242"
+    ]
+  },
+  {
+    "scenario": "A mint employee, under pressure from his supervisor, intentionally reduces the silver content in newly minted 10 rupee coins.",
+    "ipc_sections": [
+      "244"
+    ]
+  },
+  {
+    "scenario": "An ex-employee of a mint steals a coining die from the mint premises with the intention of making counterfeit coins.",
+    "ipc_sections": [
+      "245"
+    ]
+  },
+  {
+    "scenario": "A goldsmith melts down several genuine silver coins and mixes the silver with other metals to create a larger quantity of lower-quality silver, intending to sell it for profit.",
+    "ipc_sections": [
+      "246"
+    ]
+  },
+  {
+    "scenario": "A person defaces an old Indian coin to make it appear as a rare and valuable antique coin, intending to sell it to a collector.",
+    "ipc_sections": [
+      "248",
+      "249"
+    ]
+  },
+  {
+    "scenario": "A person finds a counterfeit coin. Later, without knowing it's fake, he gives it to a beggar.",
+    "ipc_sections": [
+      "241"
+    ]
+  },
+  {
+    "scenario": "A person knowingly possesses counterfeit Indian coins with the intention of using them to pay his employees' salaries.",
+    "ipc_sections": [
+      "243"
+    ]
+  },
+  {
+    "scenario": "A person alters the appearance of a one rupee coin to make it look like a five rupee coin and uses it to buy candy.",
+    "ipc_sections": [
+      "248",
+      "240"
+    ]
+  },
+  {
+    "scenario": "A person is caught with a large number of counterfeit coins in his possession, and it is proven that he knew they were counterfeit when he acquired them and intended to use them for fraudulent purposes.",
+    "ipc_sections": [
+      "242",
+      "240"
+    ]
+  },
+  {
+    "scenario": "A person working in a mint intentionally uses a lower quality metal than specified by law when minting new coins.",
+    "ipc_sections": [
+      "244"
+    ]
+  },
+  {
+    "scenario": "A person steals a specialized tool used for creating the design on coins from a government mint.",
+    "ipc_sections": [
+      "245"
+    ]
+  },
+  {
+    "scenario": "A person files down the edges of several gold coins to collect the gold dust, intending to sell the dust for profit.",
+    "ipc_sections": [
+      "246",
+      "247"
+    ]
+  },
+  {
+    "scenario": "A person alters the surface of a silver coin to make it appear older and more valuable, intending to deceive a coin collector.",
+    "ipc_sections": [
+      "248"
+    ]
+  },
+  {
+    "scenario": "A person alters an Indian coin to resemble a coin from a foreign country with a higher value, intending to exchange it at a currency exchange.",
+    "ipc_sections": [
+      "249"
+    ]
+  },
+  {
+    "scenario": "A person knowingly gives a counterfeit coin to a child as a gift, intending to cause mischief.",
+    "ipc_sections": [
+      "240",
+      "241"
+    ]
+  },
+  {
+    "scenario": "A person possesses counterfeit Indian coins and attempts to deposit them into a bank account.",
+    "ipc_sections": [
+      "243",
+      "240"
+    ]
+  },
+  {
+    "scenario": "A mint employee intentionally damages a coining machine to disrupt the production of coins.",
+    "ipc_sections": [
+      "244",
+      "245"
+    ]
+  },
+  {
+    "scenario": "A person melts down genuine Indian coins and uses the metal to create fake jewelry, intending to sell it as genuine gold jewelry.",
+    "ipc_sections": [
+      "247"
+    ]
+  },
+  {
+    "scenario": "A person alters the appearance of a coin to make it look like a commemorative coin, intending to sell it at a higher price.",
+    "ipc_sections": [
+      "248",
+      "249"
+    ]
+  },
+  {
+    "scenario": "Ramesh knowingly uses a counterfeit 500 rupee coin to buy groceries, knowing it's fake.",
+    "ipc_sections": [
+      "250",
+      "254"
+    ]
+  },
+  {
+    "scenario": "Suresh discovers a bag of fake government stamps in his attic, inherited from his grandfather, and attempts to sell them.",
+    "ipc_sections": [
+      "258",
+      "259"
+    ]
+  },
+  {
+    "scenario": "Geeta, a shopkeeper, knowingly sells a counterfeit stamp to a customer.",
+    "ipc_sections": [
+      "258"
+    ]
+  },
+  {
+    "scenario": "Mohan possesses tools and materials specifically designed for creating counterfeit government stamps.",
+    "ipc_sections": [
+      "256",
+      "257"
+    ]
+  },
+  {
+    "scenario": "Lakshmi finds a coin that has been altered to appear more valuable and tries to pass it off as genuine at a local market.",
+    "ipc_sections": [
+      "254"
+    ]
+  },
+  {
+    "scenario": "David knowingly delivers a counterfeit coin to his friend, intending to deceive him.",
+    "ipc_sections": [
+      "250"
+    ]
+  },
+  {
+    "scenario": "A printing press owner is caught producing counterfeit government stamps.",
+    "ipc_sections": [
+      "255"
+    ]
+  },
+  {
+    "scenario": "A man is found with a large number of counterfeit Indian coins in his possession, intending to circulate them.",
+    "ipc_sections": [
+      "253",
+      "259"
+    ]
+  },
+  {
+    "scenario": "A vendor sells a stamp, knowing it's a fake, but claims it's genuine to a customer.",
+    "ipc_sections": [
+      "258"
+    ]
+  },
+  {
+    "scenario": "A person is caught making counterfeit government stamps in their basement.",
+    "ipc_sections": [
+      "255"
+    ]
+  },
+  {
+    "scenario": "A man knowingly possesses altered coins and attempts to use them in a vending machine.",
+    "ipc_sections": [
+      "252",
+      "250"
+    ]
+  },
+  {
+    "scenario": "A person buys equipment with the intention of using it to create counterfeit stamps.",
+    "ipc_sections": [
+      "257"
+    ]
+  },
+  {
+    "scenario": "A woman discovers a counterfeit coin in her change and tries to use it at another store.",
+    "ipc_sections": [
+      "254"
+    ]
+  },
+  {
+    "scenario": "A group is caught manufacturing counterfeit stamps on a large scale.",
+    "ipc_sections": [
+      "255",
+      "257"
+    ]
+  },
+  {
+    "scenario": "A person knowingly possesses a counterfeit stamp with the intention of using it to avoid paying taxes.",
+    "ipc_sections": [
+      "259"
+    ]
+  },
+  {
+    "scenario": "A man sells a coin as a rare antique, knowing it has been altered to appear more valuable.",
+    "ipc_sections": [
+      "254"
+    ]
+  },
+  {
+    "scenario": "A person is found with a collection of counterfeit coins and stamps, intending to sell them to collectors.",
+    "ipc_sections": [
+      "253",
+      "259"
+    ]
+  },
+  {
+    "scenario": "A shopkeeper knowingly accepts a counterfeit coin as payment and then tries to use it to pay his supplier.",
+    "ipc_sections": [
+      "250",
+      "254"
+    ]
+  },
+  {
+    "scenario": "A person alters a coin to make it appear more valuable and then tries to sell it online.",
+    "ipc_sections": [
+      "254"
+    ]
+  },
+  {
+    "scenario": "A person is caught with a large quantity of counterfeit stamps hidden in their home.",
+    "ipc_sections": [
+      "259"
+    ]
+  },
+  {
+    "scenario": "A shopkeeper knowingly uses a tampered weighing scale to cheat customers by providing less quantity of goods than what they pay for.",
+    "ipc_sections": [
+      "264",
+      "266"
+    ]
+  },
+  {
+    "scenario": "A person manufactures and sells counterfeit postage stamps to individuals, claiming they are genuine government-issued stamps.",
+    "ipc_sections": [
+      "263A",
+      "267"
+    ]
+  },
+  {
+    "scenario": "An individual removes a revenue stamp from an old legal document and attempts to reuse it on a new document to avoid paying the required stamp duty.",
+    "ipc_sections": [
+      "261",
+      "262"
+    ]
+  },
+  {
+    "scenario": "A person knowingly uses a fake stamp on a property document to evade government taxes.",
+    "ipc_sections": [
+      "260"
+    ]
+  },
+  {
+    "scenario": "A vendor sells adulterated milk, causing widespread illness among consumers in the locality.",
+    "ipc_sections": [
+      "268"
+    ]
+  },
+  {
+    "scenario": "A person possesses a set of false weights and measures in their shop, intending to use them to deceive customers.",
+    "ipc_sections": [
+      "266"
+    ]
+  },
+  {
+    "scenario": "A manufacturer produces and sells weighing scales that are designed to show incorrect measurements, knowing they will be used to cheat customers.",
+    "ipc_sections": [
+      "267"
+    ]
+  },
+  {
+    "scenario": "Someone erases the cancellation mark from a used revenue stamp and attempts to sell it as a new, unused stamp.",
+    "ipc_sections": [
+      "263"
+    ]
+  },
+  {
+    "scenario": "A person creates a fake postage stamp resembling a genuine government stamp and uses it to mail letters.",
+    "ipc_sections": [
+      "263A"
+    ]
+  },
+  {
+    "scenario": "A factory owner releases untreated industrial waste into a river, causing pollution and health problems for nearby residents.",
+    "ipc_sections": [
+      "268"
+    ]
+  },
+  {
+    "scenario": "A person knowingly uses a weighing instrument that gives false readings to cheat a supplier during a transaction.",
+    "ipc_sections": [
+      "264"
+    ]
+  },
+  {
+    "scenario": "An individual removes a stamp from a document with the intention of reusing it, causing financial loss to the government.",
+    "ipc_sections": [
+      "261"
+    ]
+  },
+  {
+    "scenario": "A person knowingly uses a revenue stamp that has already been used, intending to defraud the government.",
+    "ipc_sections": [
+      "262"
+    ]
+  },
+  {
+    "scenario": "A person possesses a die used for making counterfeit postage stamps without any lawful excuse.",
+    "ipc_sections": [
+      "263A"
+    ]
+  },
+  {
+    "scenario": "A person sells a weight that is lighter than its marked value, knowing it will be used to cheat customers.",
+    "ipc_sections": [
+      "267"
+    ]
+  },
+  {
+    "scenario": "A person uses a false measure of length to cheat a customer when selling fabric.",
+    "ipc_sections": [
+      "265"
+    ]
+  },
+  {
+    "scenario": "A person knowingly uses a counterfeit stamp on a legal document.",
+    "ipc_sections": [
+      "260"
+    ]
+  },
+  {
+    "scenario": "A person creates excessive noise pollution in a residential area late at night, disturbing the peace and causing annoyance to the residents.",
+    "ipc_sections": [
+      "268"
+    ]
+  },
+  {
+    "scenario": "A person fraudulently removes the mark indicating that a revenue stamp has been used and then sells the stamp.",
+    "ipc_sections": [
+      "263"
+    ]
+  },
+  {
+    "scenario": "A person is found in possession of a false weight with the intention of using it to cheat customers.",
+    "ipc_sections": [
+      "266"
+    ]
+  },
+  {
+    "scenario": "A person, knowing they have a highly contagious disease, attends a crowded concert without taking any precautions, potentially exposing others.",
+    "ipc_sections": [
+      "269",
+      "270"
+    ]
+  },
+  {
+    "scenario": "A restaurant owner knowingly uses expired and rotten ingredients in their food to cut costs, leading to several customers falling ill.",
+    "ipc_sections": [
+      "272",
+      "273"
+    ]
+  },
+  {
+    "scenario": "A pharmacist knowingly sells a fake drug, claiming it's a genuine medication for a serious illness.",
+    "ipc_sections": [
+      "275",
+      "276"
+    ]
+  },
+  {
+    "scenario": "A factory owner discharges untreated chemical waste into a public river, contaminating the water supply for a nearby village.",
+    "ipc_sections": [
+      "277",
+      "278"
+    ]
+  },
+  {
+    "scenario": "During a pandemic, a person refuses to comply with mandatory quarantine orders issued by the government.",
+    "ipc_sections": [
+      "269",
+      "271"
+    ]
+  },
+  {
+    "scenario": "A food vendor sells street food that is heavily contaminated with bacteria, causing widespread food poisoning.",
+    "ipc_sections": [
+      "272",
+      "273"
+    ]
+  },
+  {
+    "scenario": "A pharmaceutical company knowingly manufactures and sells a diluted vaccine, reducing its effectiveness.",
+    "ipc_sections": [
+      "274",
+      "275"
+    ]
+  },
+  {
+    "scenario": "A person deliberately contaminates a public water tank with harmful chemicals.",
+    "ipc_sections": [
+      "277"
+    ]
+  },
+  {
+    "scenario": "A factory emits excessive smoke and pollutants, causing respiratory problems for residents in the surrounding area.",
+    "ipc_sections": [
+      "278"
+    ]
+  },
+  {
+    "scenario": "A person, aware of their HIV-positive status, engages in unprotected sexual activity without disclosing their condition.",
+    "ipc_sections": [
+      "269",
+      "270"
+    ]
+  },
+  {
+    "scenario": "A hospital staff member knowingly disobeys quarantine protocols, leading to a disease outbreak within the hospital.",
+    "ipc_sections": [
+      "269",
+      "271"
+    ]
+  },
+  {
+    "scenario": "A dairy farmer adulterates milk with water and harmful chemicals before selling it to the public.",
+    "ipc_sections": [
+      "272"
+    ]
+  },
+  {
+    "scenario": "A shopkeeper sells expired medicines without informing the customers.",
+    "ipc_sections": [
+      "273",
+      "275"
+    ]
+  },
+  {
+    "scenario": "A medical store sells a painkiller under the name of an antibiotic.",
+    "ipc_sections": [
+      "276"
+    ]
+  },
+  {
+    "scenario": "A person throws garbage and sewage into a public well, contaminating the drinking water.",
+    "ipc_sections": [
+      "277"
+    ]
+  },
+  {
+    "scenario": "A person burns plastic and rubber in a residential area, creating toxic fumes.",
+    "ipc_sections": [
+      "278"
+    ]
+  },
+  {
+    "scenario": "A person with tuberculosis spits in a crowded public place, knowing it could spread the disease.",
+    "ipc_sections": [
+      "269",
+      "270"
+    ]
+  },
+  {
+    "scenario": "A government official knowingly allows a ship with an infectious disease onboard to dock without proper quarantine procedures.",
+    "ipc_sections": [
+      "271"
+    ]
+  },
+  {
+    "scenario": "A juice vendor adds harmful chemicals to fruit juice to enhance its color and taste.",
+    "ipc_sections": [
+      "272"
+    ]
+  },
+  {
+    "scenario": "A person knowingly sells adulterated hand sanitizer during a pandemic, falsely claiming it is effective against the virus.",
+    "ipc_sections": [
+      "275",
+      "276"
+    ]
+  },
+  {
+    "scenario": "A speeding car hits a pedestrian on a busy street due to the driver being distracted by their phone.",
+    "ipc_sections": [
+      "279",
+      "337",
+      "338"
+    ]
+  },
+  {
+    "scenario": "A boat captain, under the influence of alcohol, crashes into another vessel, causing injuries to passengers.",
+    "ipc_sections": [
+      "280",
+      "337",
+      "338"
+    ]
+  },
+  {
+    "scenario": "Someone places a fake warning buoy in a shipping channel, causing a ship to run aground.",
+    "ipc_sections": [
+      "281",
+      "425",
+      "426"
+    ]
+  },
+  {
+    "scenario": "A ferry operator overloads their boat with passengers, and the boat capsizes, resulting in fatalities.",
+    "ipc_sections": [
+      "282",
+      "304A"
+    ]
+  },
+  {
+    "scenario": "Construction workers leave debris and building materials scattered on a public sidewalk, causing a pedestrian to trip and injure themselves.",
+    "ipc_sections": [
+      "283",
+      "337"
+    ]
+  },
+  {
+    "scenario": "A chemist carelessly mixes chemicals, causing a toxic gas leak that affects nearby residents.",
+    "ipc_sections": [
+      "284",
+      "337",
+      "338"
+    ]
+  },
+  {
+    "scenario": "Someone starts a bonfire in a residential area without taking proper precautions, and the fire spreads to a neighboring house.",
+    "ipc_sections": [
+      "285",
+      "435",
+      "436"
+    ]
+  },
+  {
+    "scenario": "A fireworks display is conducted without proper safety measures, resulting in an explosion that injures spectators.",
+    "ipc_sections": [
+      "286",
+      "337",
+      "338"
+    ]
+  },
+  {
+    "scenario": "A factory worker operates a machine without proper training, leading to an accident that causes serious injury to another worker.",
+    "ipc_sections": [
+      "287",
+      "337",
+      "338"
+    ]
+  },
+  {
+    "scenario": "During demolition of a building, the contractor fails to secure the area, and falling debris injures a passerby.",
+    "ipc_sections": [
+      "288",
+      "337",
+      "338"
+    ]
+  },
+  {
+    "scenario": "A truck driver, driving rashly, loses control and damages a public bus stop.",
+    "ipc_sections": [
+      "279",
+      "427"
+    ]
+  },
+  {
+    "scenario": "A private boat owner navigates their vessel too close to swimmers, endangering their lives.",
+    "ipc_sections": [
+      "280",
+      "336"
+    ]
+  },
+  {
+    "scenario": "Someone replaces a navigation light with a red light, causing confusion and a near-miss for a cargo ship.",
+    "ipc_sections": [
+      "281",
+      "430"
+    ]
+  },
+  {
+    "scenario": "A tour operator uses an old, unsafe boat for river cruises, putting passengers at risk.",
+    "ipc_sections": [
+      "282",
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A shopkeeper leaves boxes stacked high on the sidewalk, obstructing pedestrian traffic and causing someone to fall.",
+    "ipc_sections": [
+      "283",
+      "337"
+    ]
+  },
+  {
+    "scenario": "A person leaves rat poison unattended where children can access it, and a child ingests it.",
+    "ipc_sections": [
+      "284",
+      "328"
+    ]
+  },
+  {
+    "scenario": "Someone carelessly throws a lit cigarette into a dry forest area, causing a wildfire.",
+    "ipc_sections": [
+      "285",
+      "435"
+    ]
+  },
+  {
+    "scenario": "A person stores explosives improperly in their home, causing an accidental explosion that damages neighboring properties.",
+    "ipc_sections": [
+      "286",
+      "436"
+    ]
+  },
+  {
+    "scenario": "A mechanic fails to properly maintain a machine, leading to a malfunction that injures a worker.",
+    "ipc_sections": [
+      "287",
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A construction company fails to put up warning signs during building demolition, and a pedestrian is hit by falling bricks.",
+    "ipc_sections": [
+      "288",
+      "338"
+    ]
+  },
+  {
+    "scenario": "A dog owner fails to properly restrain their aggressive dog, which then bites a passerby, causing serious injury.",
+    "ipc_sections": [
+      "289",
+      "337",
+      "338"
+    ]
+  },
+  {
+    "scenario": "A group of protestors block a public road, causing significant traffic congestion and inconvenience to the public.",
+    "ipc_sections": [
+      "290",
+      "341"
+    ]
+  },
+  {
+    "scenario": "A person continues to play loud music late at night, disturbing their neighbors, despite repeated warnings from the police.",
+    "ipc_sections": [
+      "290",
+      "291"
+    ]
+  },
+  {
+    "scenario": "A website owner publishes and distributes pornographic material online.",
+    "ipc_sections": [
+      "292",
+      "67 IT Act"
+    ]
+  },
+  {
+    "scenario": "A shopkeeper sells obscene magazines to a minor.",
+    "ipc_sections": [
+      "293",
+      "292"
+    ]
+  },
+  {
+    "scenario": "A person performs a lewd dance in a public park, causing offense to onlookers.",
+    "ipc_sections": [
+      "294"
+    ]
+  },
+  {
+    "scenario": "An individual runs an illegal lottery scheme, promising large cash prizes.",
+    "ipc_sections": [
+      "294A"
+    ]
+  },
+  {
+    "scenario": "A group of vandals damage a statue in a temple, intending to insult the religious sentiments of the community.",
+    "ipc_sections": [
+      "295",
+      "427"
+    ]
+  },
+  {
+    "scenario": "A person makes derogatory remarks about a religion on social media, with the intention of inciting hatred.",
+    "ipc_sections": [
+      "295A",
+      "505"
+    ]
+  },
+  {
+    "scenario": "A group of people disrupt a prayer service by shouting slogans and creating a disturbance.",
+    "ipc_sections": [
+      "296"
+    ]
+  },
+  {
+    "scenario": "A person keeps a pet monkey without proper permits and it escapes, causing panic in a residential area.",
+    "ipc_sections": [
+      "289"
+    ]
+  },
+  {
+    "scenario": "A factory emits noxious fumes, causing air pollution and health problems for nearby residents.",
+    "ipc_sections": [
+      "290",
+      "278"
+    ]
+  },
+  {
+    "scenario": "A person, after being warned by authorities, continues to dump garbage in a public space.",
+    "ipc_sections": [
+      "290",
+      "291"
+    ]
+  },
+  {
+    "scenario": "A person creates and distributes sexually explicit images of a minor.",
+    "ipc_sections": [
+      "292",
+      "293",
+      "67B IT Act"
+    ]
+  },
+  {
+    "scenario": "A street performer uses vulgar language and gestures during their act in a public place.",
+    "ipc_sections": [
+      "294"
+    ]
+  },
+  {
+    "scenario": "A person organizes and promotes an illegal gambling event disguised as a lottery.",
+    "ipc_sections": [
+      "294A"
+    ]
+  },
+  {
+    "scenario": "A person intentionally sets fire to a church, causing significant damage.",
+    "ipc_sections": [
+      "295",
+      "435"
+    ]
+  },
+  {
+    "scenario": "A political leader makes inflammatory speeches that incite violence against a religious minority.",
+    "ipc_sections": [
+      "295A",
+      "153A"
+    ]
+  },
+  {
+    "scenario": "A group of protestors disrupt a religious procession, causing chaos and unrest.",
+    "ipc_sections": [
+      "296",
+      "141"
+    ]
+  },
+  {
+    "scenario": "Someone releases a swarm of bees near a public gathering, causing panic and injuries.",
+    "ipc_sections": [
+      "289",
+      "337"
+    ]
+  },
+  {
+    "scenario": "A man intentionally damages a statue in a temple, causing outrage among the local community.",
+    "ipc_sections": [
+      "297",
+      "298"
+    ]
+  },
+  {
+    "scenario": "During a heated argument, a person slaps another, who has a pre-existing heart condition. The slap triggers a heart attack, leading to the person's death.",
+    "ipc_sections": [
+      "299",
+      "304"
+    ]
+  },
+  {
+    "scenario": "A drunk driver runs a red light and hits a pedestrian, resulting in the pedestrian's death.",
+    "ipc_sections": [
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A person, knowing their neighbor is severely allergic to peanuts, intentionally throws peanuts into their yard, causing a fatal allergic reaction.",
+    "ipc_sections": [
+      "299",
+      "300"
+    ]
+  },
+  {
+    "scenario": "A group of people disrupt a funeral procession by shouting offensive slogans and throwing stones at the mourners.",
+    "ipc_sections": [
+      "297",
+      "298"
+    ]
+  },
+  {
+    "scenario": "A doctor administers a wrong medication to a patient due to negligence, leading to the patient's death.",
+    "ipc_sections": [
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A man, already serving a life sentence for a previous murder, stabs and kills a fellow inmate.",
+    "ipc_sections": [
+      "302",
+      "303"
+    ]
+  },
+  {
+    "scenario": "A person, in a fit of rage after being provoked, stabs and kills the person who provoked them.",
+    "ipc_sections": [
+      "299",
+      "300",
+      "304"
+    ]
+  },
+  {
+    "scenario": "A construction company fails to properly secure a construction site, and a passerby falls into an open pit and dies.",
+    "ipc_sections": [
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A person, intending to kill their enemy, throws a bomb into a crowded marketplace, killing several innocent bystanders.",
+    "ipc_sections": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "scenario": "A person exhumes a body from a grave and desecrates it.",
+    "ipc_sections": [
+      "297"
+    ]
+  },
+  {
+    "scenario": "A person makes derogatory remarks about another person's religion during a public speech, intending to incite hatred.",
+    "ipc_sections": [
+      "298"
+    ]
+  },
+  {
+    "scenario": "A person, while cleaning a loaded gun, accidentally shoots and kills a family member.",
+    "ipc_sections": [
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A person, knowing that a bridge is structurally unsound, allows people to cross it for a fee. The bridge collapses, and several people die.",
+    "ipc_sections": [
+      "299",
+      "300",
+      "304"
+    ]
+  },
+  {
+    "scenario": "A person, in self-defense, uses excessive force and kills their attacker.",
+    "ipc_sections": [
+      "299",
+      "300",
+      "304"
+    ]
+  },
+  {
+    "scenario": "A person spreads false rumors online about a religious figure, causing widespread unrest and violence.",
+    "ipc_sections": [
+      "298",
+      "29A"
+    ]
+  },
+  {
+    "scenario": "A person, intending to cause grievous hurt, attacks another person with a knife. The victim dies from the injuries.",
+    "ipc_sections": [
+      "299",
+      "300"
+    ]
+  },
+  {
+    "scenario": "A person sets fire to a building, knowing that people are inside, resulting in their deaths.",
+    "ipc_sections": [
+      "300",
+      "302"
+    ]
+  },
+  {
+    "scenario": "A person performs a dangerous stunt during a religious procession, causing injury to several participants.",
+    "ipc_sections": [
+      "297",
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A person, without proper training, attempts to perform a medical procedure, resulting in the patient's death.",
+    "ipc_sections": [
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A woman dies from burns within 5 years of marriage. Her family alleges her husband and his mother constantly harassed her for more dowry.",
+    "ipc_sections": [
+      "304B",
+      "498A"
+    ]
+  },
+  {
+    "scenario": "A 17-year-old, depressed after failing an exam, consumes poison. A friend who knew of his suicidal thoughts encouraged him to do it.",
+    "ipc_sections": [
+      "305",
+      "107"
+    ]
+  },
+  {
+    "scenario": "A man, deeply in debt, jumps off a building in an attempt to end his life but survives with severe injuries.",
+    "ipc_sections": [
+      "309"
+    ]
+  },
+  {
+    "scenario": "During a heated argument, a man stabs his neighbor with a knife, intending to kill him. The neighbor survives but is critically injured.",
+    "ipc_sections": [
+      "307"
+    ]
+  },
+  {
+    "scenario": "A driver, speeding recklessly, hits a pedestrian. The pedestrian dies. The driver knew his actions were likely to cause death but didn't specifically intend to kill.",
+    "ipc_sections": [
+      "304",
+      "308"
+    ]
+  },
+  {
+    "scenario": "A group of individuals are known to regularly commit robberies and murders of children. They operate as a gang.",
+    "ipc_sections": [
+      "310",
+      "311",
+      "302",
+      "363"
+    ]
+  },
+  {
+    "scenario": "A doctor performs an abortion on a woman who is 5 months pregnant, without her consent.",
+    "ipc_sections": [
+      "313"
+    ]
+  },
+  {
+    "scenario": "A husband forces his pregnant wife to take medication that induces a miscarriage, even though it's not necessary to save her life.",
+    "ipc_sections": [
+      "312",
+      "498A"
+    ]
+  },
+  {
+    "scenario": "A man provides his friend with a loaded gun, knowing his friend is suicidal and intends to use it. The friend subsequently commits suicide.",
+    "ipc_sections": [
+      "306",
+      "107"
+    ]
+  },
+  {
+    "scenario": "A woman is found dead in her home. Evidence suggests she was strangled. Her husband had been verbally abusive and controlling for years.",
+    "ipc_sections": [
+      "302",
+      "498A"
+    ]
+  },
+  {
+    "scenario": "A man attempts to poison his wife's food with the intention of killing her, but she only becomes severely ill.",
+    "ipc_sections": [
+      "307"
+    ]
+  },
+  {
+    "scenario": "A group of people plan to rob a bank, and during the robbery, they kill a security guard.",
+    "ipc_sections": [
+      "302",
+      "392",
+      "34"
+    ]
+  },
+  {
+    "scenario": "A mentally unstable person attempts suicide by jumping in front of a train. A bystander actively encourages him to go through with it.",
+    "ipc_sections": [
+      "305",
+      "107"
+    ]
+  },
+  {
+    "scenario": "A woman, under severe pressure from her in-laws for dowry, attempts to set herself on fire but is rescued before suffering fatal injuries.",
+    "ipc_sections": [
+      "309",
+      "498A"
+    ]
+  },
+  {
+    "scenario": "A man, knowing his actions are likely to cause death, drives his car into a crowd of people, killing one and injuring several others.",
+    "ipc_sections": [
+      "304",
+      "307"
+    ]
+  },
+  {
+    "scenario": "A gang is known for kidnapping children and murdering them during robberies.",
+    "ipc_sections": [
+      "310",
+      "311",
+      "302",
+      "363"
+    ]
+  },
+  {
+    "scenario": "A doctor performs an abortion on a minor without her consent and without informing her parents.",
+    "ipc_sections": [
+      "313"
+    ]
+  },
+  {
+    "scenario": "A man provides his wife with sleeping pills and suggests she take them all, knowing she is depressed and suicidal. She dies from an overdose.",
+    "ipc_sections": [
+      "306",
+      "107"
+    ]
+  },
+  {
+    "scenario": "A man assaults his wife, causing her to miscarry. The assault was not intended to cause a miscarriage, but it was a direct result of the violence.",
+    "ipc_sections": [
+      "312",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A person attempts to commit suicide by consuming poison but is saved by timely medical intervention. They are then found to have been suffering from severe depression.",
+    "ipc_sections": [
+      "309"
+    ]
+  },
+  {
+    "scenario": "A man, intending to cause a woman to miscarry, gives her a substance that leads to her death. The woman did not consent to taking the substance.",
+    "ipc_sections": [
+      "314"
+    ]
+  },
+  {
+    "scenario": "A doctor performs a procedure on a pregnant woman with the intention of preventing the child from being born alive. The child is stillborn as a result of the procedure, and the procedure was not performed to save the mother's life.",
+    "ipc_sections": [
+      "315"
+    ]
+  },
+  {
+    "scenario": "During a fight, a man punches a pregnant woman in the stomach, knowing she is pregnant. The blow causes the death of the unborn child, which was at a stage where its death would be considered culpable homicide.",
+    "ipc_sections": [
+      "316"
+    ]
+  },
+  {
+    "scenario": "A mother leaves her 10-year-old child at a bus station with no money or means of support, intending to abandon the child permanently.",
+    "ipc_sections": [
+      "317"
+    ]
+  },
+  {
+    "scenario": "A woman secretly buries the body of her newborn child in her backyard to hide the fact that she gave birth.",
+    "ipc_sections": [
+      "318"
+    ]
+  },
+  {
+    "scenario": "A man punches another man in the face, causing him a bloody nose and facial bruising.",
+    "ipc_sections": [
+      "319",
+      "323"
+    ]
+  },
+  {
+    "scenario": "During an argument, a man slaps another man so hard that it causes permanent disfigurement to his face.",
+    "ipc_sections": [
+      "319",
+      "320",
+      "322"
+    ]
+  },
+  {
+    "scenario": "A man intentionally pushes another man, knowing that he is likely to fall and hurt himself. The man falls and breaks his arm.",
+    "ipc_sections": [
+      "319",
+      "321",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A man, intending to cause grievous hurt, stabs another man with a knife, resulting in the loss of the use of his arm.",
+    "ipc_sections": [
+      "320",
+      "322"
+    ]
+  },
+  {
+    "scenario": "A group of people get into a bar fight, and one person punches another, causing him pain and swelling.",
+    "ipc_sections": [
+      "319",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A man gives a woman a drink laced with a substance intended to cause a miscarriage. The woman suffers severe health complications but survives.",
+    "ipc_sections": [
+      "314"
+    ]
+  },
+  {
+    "scenario": "A nurse administers a drug to a pregnant woman with the intention of inducing labor prematurely, resulting in the death of the child shortly after birth. The action was not taken to save the mother's life.",
+    "ipc_sections": [
+      "315"
+    ]
+  },
+  {
+    "scenario": "A man driving recklessly hits a pregnant woman, causing the death of her unborn child, which was at a stage where its death would be considered culpable homicide.",
+    "ipc_sections": [
+      "316"
+    ]
+  },
+  {
+    "scenario": "A couple abandons their 11-year-old child at a shopping mall, providing no information or resources for the child's care.",
+    "ipc_sections": [
+      "317"
+    ]
+  },
+  {
+    "scenario": "A woman disposes of the body of her stillborn child in a river to avoid social stigma and legal repercussions.",
+    "ipc_sections": [
+      "318"
+    ]
+  },
+  {
+    "scenario": "A person intentionally spits on another person, causing them emotional distress and a fear of infection.",
+    "ipc_sections": [
+      "319",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A man attacks another man with a hammer, causing a fracture to his skull and endangering his life.",
+    "ipc_sections": [
+      "320",
+      "322"
+    ]
+  },
+  {
+    "scenario": "A person throws a rock at another person, knowing it could cause harm. The rock hits the person and causes a deep cut requiring stitches.",
+    "ipc_sections": [
+      "319",
+      "321",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A man intentionally pours acid on another man's face, causing permanent disfigurement and blindness in one eye.",
+    "ipc_sections": [
+      "320",
+      "322"
+    ]
+  },
+  {
+    "scenario": "Two neighbors get into a heated argument, and one pushes the other, causing him to fall and sprain his ankle.",
+    "ipc_sections": [
+      "319",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A man uses a knife to stab another man during a heated argument, causing a deep wound that requires stitches.",
+    "ipc_sections": [
+      "324",
+      "326"
+    ]
+  },
+  {
+    "scenario": "A group of individuals assaults a shopkeeper, demanding he hand over all the money in the cash register.",
+    "ipc_sections": [
+      "324",
+      "327"
+    ]
+  },
+  {
+    "scenario": "A woman throws acid on her ex-boyfriend's face, causing permanent disfigurement.",
+    "ipc_sections": [
+      "326A",
+      "326B"
+    ]
+  },
+  {
+    "scenario": "A person mixes a strong sedative into another person's drink with the intention of robbing them while they are unconscious.",
+    "ipc_sections": [
+      "328",
+      "379"
+    ]
+  },
+  {
+    "scenario": "A group of police officers tortures a suspect to extract a confession about a theft.",
+    "ipc_sections": [
+      "330",
+      "331"
+    ]
+  },
+  {
+    "scenario": "A man beats his wife severely, causing a fractured arm and other serious injuries.",
+    "ipc_sections": [
+      "325",
+      "498A"
+    ]
+  },
+  {
+    "scenario": "A person uses a baseball bat to repeatedly strike another person, resulting in multiple broken bones.",
+    "ipc_sections": [
+      "325",
+      "326"
+    ]
+  },
+  {
+    "scenario": "A gang kidnaps a wealthy businessman and threatens to harm him unless his family pays a large ransom.",
+    "ipc_sections": [
+      "327",
+      "364A"
+    ]
+  },
+  {
+    "scenario": "A person forces another to consume a poisonous substance, causing severe internal damage.",
+    "ipc_sections": [
+      "326",
+      "328"
+    ]
+  },
+  {
+    "scenario": "A group of vigilantes severely beats a suspected thief, causing permanent disability.",
+    "ipc_sections": [
+      "326",
+      "329"
+    ]
+  },
+  {
+    "scenario": "A landlord intentionally cuts off the water supply to a tenant's apartment and threatens further action unless the tenant pays an exorbitant rent increase.",
+    "ipc_sections": [
+      "324",
+      "327"
+    ]
+  },
+  {
+    "scenario": "A person throws acid on another person's clothes, causing burns to their skin.",
+    "ipc_sections": [
+      "326B",
+      "324"
+    ]
+  },
+  {
+    "scenario": "A doctor administers a wrong medication to a patient, causing serious health complications.",
+    "ipc_sections": [
+      "324",
+      "337"
+    ]
+  },
+  {
+    "scenario": "A person gives another person a spiked drink at a party, causing them to become incapacitated and vulnerable to assault.",
+    "ipc_sections": [
+      "328",
+      "354"
+    ]
+  },
+  {
+    "scenario": "A group of individuals assaults a person and steals their wallet and phone.",
+    "ipc_sections": [
+      "324",
+      "392"
+    ]
+  },
+  {
+    "scenario": "A person threatens to reveal another person's secret unless they hand over a valuable piece of jewelry.",
+    "ipc_sections": [
+      "327",
+      "384"
+    ]
+  },
+  {
+    "scenario": "A person intentionally poisons a neighbor's pet dog.",
+    "ipc_sections": [
+      "328",
+      "428"
+    ]
+  },
+  {
+    "scenario": "A person uses a taser on another person, causing them significant pain and temporary paralysis.",
+    "ipc_sections": [
+      "324",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A person burns another person with a hot iron.",
+    "ipc_sections": [
+      "324",
+      "326"
+    ]
+  },
+  {
+    "scenario": "A person forces another person to sign a property deed by threatening to harm their family.",
+    "ipc_sections": [
+      "329",
+      "467"
+    ]
+  },
+  {
+    "scenario": "A man punches a police officer who is trying to arrest him for drunk driving.",
+    "ipc_sections": [
+      "332",
+      "353"
+    ]
+  },
+  {
+    "scenario": "During a protest, a demonstrator throws a rock at a police officer, causing a serious head injury.",
+    "ipc_sections": [
+      "333",
+      "326"
+    ]
+  },
+  {
+    "scenario": "A husband, enraged by his wife's infidelity, slaps her during a heated argument.",
+    "ipc_sections": [
+      "334",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A man, provoked by a sudden insult, stabs the person who insulted him, causing a severe wound.",
+    "ipc_sections": [
+      "335",
+      "325"
+    ]
+  },
+  {
+    "scenario": "A construction worker drops a tool from a high scaffolding, and it narrowly misses a pedestrian below.",
+    "ipc_sections": [
+      "336"
+    ]
+  },
+  {
+    "scenario": "A driver, speeding through a residential area, hits a pedestrian, causing minor injuries.",
+    "ipc_sections": [
+      "337",
+      "279"
+    ]
+  },
+  {
+    "scenario": "A doctor prescribes the wrong medication due to negligence, causing serious harm to the patient.",
+    "ipc_sections": [
+      "338",
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A group of protestors block a road, preventing vehicles from passing.",
+    "ipc_sections": [
+      "339",
+      "141"
+    ]
+  },
+  {
+    "scenario": "A security guard locks a shoplifter in a small room until the police arrive.",
+    "ipc_sections": [
+      "340",
+      "342"
+    ]
+  },
+  {
+    "scenario": "A bouncer prevents a person from entering a club because of their race.",
+    "ipc_sections": [
+      "341"
+    ]
+  },
+  {
+    "scenario": "A person intentionally trips another person, causing them to fall and sustain minor injuries.",
+    "ipc_sections": [
+      "337",
+      "323"
+    ]
+  },
+  {
+    "scenario": "A factory owner fails to provide safety equipment, leading to a worker suffering a grievous injury.",
+    "ipc_sections": [
+      "338",
+      "287"
+    ]
+  },
+  {
+    "scenario": "A group of people surround a person, preventing them from leaving a room against their will.",
+    "ipc_sections": [
+      "340",
+      "149"
+    ]
+  },
+  {
+    "scenario": "A man pushes a woman, causing her to stumble and fall, resulting in a broken arm.",
+    "ipc_sections": [
+      "337",
+      "325"
+    ]
+  },
+  {
+    "scenario": "A person driving under the influence of alcohol hits another car, causing serious injuries to the other driver.",
+    "ipc_sections": [
+      "338",
+      "304A",
+      "279"
+    ]
+  },
+  {
+    "scenario": "A landlord locks a tenant inside their apartment for failing to pay rent.",
+    "ipc_sections": [
+      "340",
+      "342"
+    ]
+  },
+  {
+    "scenario": "A person throws a firecracker into a crowd, causing minor burns to several people.",
+    "ipc_sections": [
+      "336",
+      "337",
+      "286"
+    ]
+  },
+  {
+    "scenario": "A security guard uses excessive force while detaining a suspect, causing grievous hurt.",
+    "ipc_sections": [
+      "333",
+      "325"
+    ]
+  },
+  {
+    "scenario": "A person, while cleaning a gun, accidentally fires it, and the bullet hits a neighbor, causing injury.",
+    "ipc_sections": [
+      "337",
+      "338",
+      "304A"
+    ]
+  },
+  {
+    "scenario": "A group of students block the entrance to a college building, preventing other students from entering.",
+    "ipc_sections": [
+      "339",
+      "341",
+      "141"
+    ]
+  },
+  {
+    "scenario": "A man locks his wife in a room for 5 days because she refused to give him money for alcohol.",
+    "ipc_sections": [
+      "343",
+      "347"
+    ]
+  },
+  {
+    "scenario": "A group of protesters surround a government official's car, preventing him from leaving for an hour.",
+    "ipc_sections": [
+      "341",
+      "342"
+    ]
+  },
+  {
+    "scenario": "A shopkeeper detains a customer in his store for 12 days, suspecting him of shoplifting, even after the police issued a notice for his release.",
+    "ipc_sections": [
+      "344",
+      "345"
+    ]
+  },
+  {
+    "scenario": "A kidnapper hides a victim in a soundproof basement, ensuring no one knows of their location.",
+    "ipc_sections": [
+      "346",
+      "364"
+    ]
+  },
+  {
+    "scenario": "A landlord locks a tenant in their apartment until they pay overdue rent.",
+    "ipc_sections": [
+      "342",
+      "347"
+    ]
+  },
+  {
+    "scenario": "A police officer threatens to slap a suspect during interrogation.",
+    "ipc_sections": [
+      "351",
+      "352"
+    ]
+  },
+  {
+    "scenario": "A man raises his fist at another person in a threatening manner, causing them to fear immediate harm.",
+    "ipc_sections": [
+      "351"
+    ]
+  },
+  {
+    "scenario": "A group of villagers block a road, preventing a bus from passing through.",
+    "ipc_sections": [
+      "341",
+      "342"
+    ]
+  },
+  {
+    "scenario": "A person pushes another person without their consent, causing them to stumble.",
+    "ipc_sections": [
+      "349",
+      "350"
+    ]
+  },
+  {
+    "scenario": "A gang confines a businessman for 7 days to force him to sign over his property.",
+    "ipc_sections": [
+      "343",
+      "347"
+    ]
+  },
+  {
+    "scenario": "A woman is locked in a room by her in-laws for 15 days to pressure her family to give them more dowry.",
+    "ipc_sections": [
+      "344",
+      "347"
+    ]
+  },
+  {
+    "scenario": "A security guard restrains a person for 2 hours, suspecting them of theft, but fails to inform the police.",
+    "ipc_sections": [
+      "342"
+    ]
+  },
+  {
+    "scenario": "A man confines his employee in the office overnight to complete an urgent project.",
+    "ipc_sections": [
+      "342"
+    ]
+  },
+  {
+    "scenario": "A group of people surround a car and start banging on it, causing the occupants to fear for their safety.",
+    "ipc_sections": [
+      "350",
+      "351"
+    ]
+  },
+  {
+    "scenario": "A person throws a stone at another person, causing them minor injury.",
+    "ipc_sections": [
+      "349",
+      "350"
+    ]
+  },
+  {
+    "scenario": "A teacher slaps a student without justification.",
+    "ipc_sections": [
+      "350",
+      "352"
+    ]
+  },
+  {
+    "scenario": "A group of men surround a woman and make lewd gestures, causing her to fear for her safety.",
+    "ipc_sections": [
+      "351",
+      "509"
+    ]
+  },
+  {
+    "scenario": "A person confines another person for 20 days to extract information about a hidden treasure.",
+    "ipc_sections": [
+      "344",
+      "348"
+    ]
+  },
+  {
+    "scenario": "A man threatens to hit another person with a stick.",
+    "ipc_sections": [
+      "351"
+    ]
+  },
+  {
+    "scenario": "A person intentionally blocks another person's path, preventing them from moving forward.",
+    "ipc_sections": [
+      "341",
+      "342"
+    ]
+  },
+  {
+    "scenario": "A man slaps his neighbor during a heated argument over parking, but the neighbor did not provoke him.",
+    "ipc_sections": [
+      "352"
+    ]
+  },
+  {
+    "scenario": "A protestor shoves a police officer who is trying to disperse an unlawful assembly.",
+    "ipc_sections": [
+      "353",
+      "352"
+    ]
+  },
+  {
+    "scenario": "A man grabs a woman's breast in a crowded bus.",
+    "ipc_sections": [
+      "354"
+    ]
+  },
+  {
+    "scenario": "A supervisor repeatedly asks his female subordinate for dates despite her making it clear she is not interested and makes sexually suggestive comments.",
+    "ipc_sections": [
+      "354A"
+    ]
+  },
+  {
+    "scenario": "A group of men forcibly strip a woman in public.",
+    "ipc_sections": [
+      "354B"
+    ]
+  },
+  {
+    "scenario": "A man secretly records his neighbor undressing in her bedroom using a hidden camera.",
+    "ipc_sections": [
+      "354C"
+    ]
+  },
+  {
+    "scenario": "A man repeatedly sends unwanted messages and follows a woman after she has blocked him on all social media platforms.",
+    "ipc_sections": [
+      "354D"
+    ]
+  },
+  {
+    "scenario": "A man spits on another man in public to humiliate him.",
+    "ipc_sections": [
+      "355",
+      "352"
+    ]
+  },
+  {
+    "scenario": "A thief punches a woman while trying to snatch her purse.",
+    "ipc_sections": [
+      "356",
+      "352"
+    ]
+  },
+  {
+    "scenario": "A man pushes a security guard who is preventing him from entering a restricted area.",
+    "ipc_sections": [
+      "357",
+      "352"
+    ]
+  },
+  {
+    "scenario": "A man makes unwelcome physical contact with a female colleague at a work party.",
+    "ipc_sections": [
+      "354A"
+    ]
+  },
+  {
+    "scenario": "A man films a woman changing in a public restroom and shares the video online.",
+    "ipc_sections": [
+      "354C"
+    ]
+  },
+  {
+    "scenario": "A man persistently calls and texts a woman after she has explicitly told him to stop, causing her distress.",
+    "ipc_sections": [
+      "354D"
+    ]
+  },
+  {
+    "scenario": "A man slaps a waiter for spilling a drink on him, without any prior provocation.",
+    "ipc_sections": [
+      "352"
+    ]
+  },
+  {
+    "scenario": "A group of protestors physically obstruct a police officer from arresting a suspect.",
+    "ipc_sections": [
+      "353",
+      "352"
+    ]
+  },
+  {
+    "scenario": "A man gropes a woman in a crowded marketplace.",
+    "ipc_sections": [
+      "354"
+    ]
+  },
+  {
+    "scenario": "A man demands sexual favors from a female employee in exchange for a promotion.",
+    "ipc_sections": [
+      "354A"
+    ]
+  },
+  {
+    "scenario": "A man attempts to forcibly remove a woman's clothes in a private setting.",
+    "ipc_sections": [
+      "354B"
+    ]
+  },
+  {
+    "scenario": "A man uses a drone to record a woman sunbathing nude in her backyard.",
+    "ipc_sections": [
+      "354C"
+    ]
+  },
+  {
+    "scenario": "A man shoves a security guard who is trying to prevent him from leaving a store with stolen goods.",
+    "ipc_sections": [
+      "356",
+      "352"
+    ]
+  },
+  {
+    "scenario": "A man, enraged by his neighbor's loud music, slaps him. The neighbor had been warned several times but continued the disturbance.",
+    "ipc_sections": [
+      "358"
+    ]
+  },
+  {
+    "scenario": "A 15-year-old girl runs away from home with her boyfriend without her parents' consent.",
+    "ipc_sections": [
+      "361",
+      "363"
+    ]
+  },
+  {
+    "scenario": "A group of men force a woman into a car against her will.",
+    "ipc_sections": [
+      "362"
+    ]
+  },
+  {
+    "scenario": "A man takes a child out of the country without the mother's permission, who has legal custody.",
+    "ipc_sections": [
+      "360",
+      "363"
+    ]
+  },
+  {
+    "scenario": "A gang kidnaps a wealthy businessman and demands a large sum of money from his family for his release, threatening to kill him if they don't comply.",
+    "ipc_sections": [
+      "364A"
+    ]
+  },
+  {
+    "scenario": "A man abducts a woman with the intention of holding her captive in his basement.",
+    "ipc_sections": [
+      "365"
+    ]
+  },
+  {
+    "scenario": "A person lures a minor away from their home with false promises of a job, intending to force them into begging.",
+    "ipc_sections": [
+      "361",
+      "363A"
+    ]
+  },
+  {
+    "scenario": "A group of individuals kidnap a political rival with the intention of murdering them.",
+    "ipc_sections": [
+      "364"
+    ]
+  },
+  {
+    "scenario": "A man uses threats to force his employee to travel to another city against their will.",
+    "ipc_sections": [
+      "362"
+    ]
+  },
+  {
+    "scenario": "A woman takes her grandchild away from her daughter's home without the daughter's consent, despite the daughter having legal guardianship.",
+    "ipc_sections": [
+      "361",
+      "363"
+    ]
+  },
+  {
+    "scenario": "A person kidnaps a child and demands the government release certain prisoners in exchange for the child's safe return.",
+    "ipc_sections": [
+      "364A"
+    ]
+  },
+  {
+    "scenario": "A man abducts a woman and confines her to a remote location, preventing her from contacting anyone.",
+    "ipc_sections": [
+      "365"
+    ]
+  },
+  {
+    "scenario": "A person takes custody of a minor, not being their legal guardian, and forces them to beg on the streets.",
+    "ipc_sections": [
+      "363A"
+    ]
+  },
+  {
+    "scenario": "A group of criminals kidnap a person with the intention of killing them and disposing of the body in a way that it will never be found.",
+    "ipc_sections": [
+      "364"
+    ]
+  },
+  {
+    "scenario": "A man uses deception to convince a woman to leave her home and travel to another state, where he intends to exploit her.",
+    "ipc_sections": [
+      "362"
+    ]
+  },
+  {
+    "scenario": "A person entices a 17-year-old girl away from her parents' home without their consent.",
+    "ipc_sections": [
+      "361",
+      "363"
+    ]
+  },
+  {
+    "scenario": "A gang kidnaps a foreign diplomat and demands a ransom from their government.",
+    "ipc_sections": [
+      "364A"
+    ]
+  },
+  {
+    "scenario": "A man abducts a child with the intention of keeping them hidden from their parents indefinitely.",
+    "ipc_sections": [
+      "365"
+    ]
+  },
+  {
+    "scenario": "A person maims a child to make them more pitiable while begging for alms.",
+    "ipc_sections": [
+      "363A"
+    ]
+  },
+  {
+    "scenario": "A group of individuals kidnap a person and threaten to kill them unless their demands are met.",
+    "ipc_sections": [
+      "364",
+      "364A"
+    ]
+  },
+  {
+    "scenario": "A man kidnaps a woman with the intention of forcing her to marry him against her will.",
+    "ipc_sections": [
+      "366"
+    ]
+  },
+  {
+    "scenario": "A person induces a 16-year-old girl to leave her home with the knowledge that she will be forced into prostitution.",
+    "ipc_sections": [
+      "366A"
+    ]
+  },
+  {
+    "scenario": "A trafficker brings a 20-year-old woman from Nepal to India with the intention of forcing her into prostitution.",
+    "ipc_sections": [
+      "366B"
+    ]
+  },
+  {
+    "scenario": "A group of men abduct a person and subject him to severe physical torture.",
+    "ipc_sections": [
+      "367"
+    ]
+  },
+  {
+    "scenario": "A person discovers that their neighbor has kidnapped a child and is holding them captive in their basement.",
+    "ipc_sections": [
+      "368"
+    ]
+  },
+  {
+    "scenario": "A man kidnaps a 9-year-old child with the intention of stealing the gold chain the child is wearing.",
+    "ipc_sections": [
+      "369"
+    ]
+  },
+  {
+    "scenario": "A company recruits workers from a rural village by promising them high-paying jobs, but then forces them to work in a factory under slave-like conditions.",
+    "ipc_sections": [
+      "370"
+    ]
+  },
+  {
+    "scenario": "A person knowingly engages a trafficked 17-year-old girl for sexual exploitation.",
+    "ipc_sections": [
+      "370A"
+    ]
+  },
+  {
+    "scenario": "A person is known to regularly buy and sell individuals into forced labor.",
+    "ipc_sections": [
+      "371"
+    ]
+  },
+  {
+    "scenario": "A parent sells their 15-year-old daughter to a brothel owner.",
+    "ipc_sections": [
+      "372"
+    ]
+  },
+  {
+    "scenario": "A man abducts a woman, intending to force her into marriage and also subjects her to physical harm.",
+    "ipc_sections": [
+      "366",
+      "367"
+    ]
+  },
+  {
+    "scenario": "A person hides a kidnapped minor girl, knowing she was abducted for illicit purposes.",
+    "ipc_sections": [
+      "366A",
+      "368"
+    ]
+  },
+  {
+    "scenario": "A group of individuals conspire to import a girl from a foreign country for the purpose of forced prostitution, and one of them is responsible for the actual importation.",
+    "ipc_sections": [
+      "366B",
+      "370"
+    ]
+  },
+  {
+    "scenario": "A person kidnaps someone and keeps them in confinement, knowing they will be subjected to slavery.",
+    "ipc_sections": [
+      "367",
+      "368"
+    ]
+  },
+  {
+    "scenario": "A person kidnaps a child under 10 and steals the child's belongings.",
+    "ipc_sections": [
+      "369",
+      "370"
+    ]
+  },
+  {
+    "scenario": "A person recruits a minor for labor using deception and then exploits them.",
+    "ipc_sections": [
+      "370",
+      "370A"
+    ]
+  },
+  {
+    "scenario": "A person is found to be habitually dealing in slaves and also exploits a trafficked minor.",
+    "ipc_sections": [
+      "370A",
+      "371"
+    ]
+  },
+  {
+    "scenario": "A person sells a minor for prostitution and also subjects them to physical abuse.",
+    "ipc_sections": [
+      "372",
+      "367"
+    ]
+  },
+  {
+    "scenario": "A person abducts a woman with the intent to force her into marriage and also steals her jewelry.",
+    "ipc_sections": [
+      "366",
+      "369"
+    ]
+  },
+  {
+    "scenario": "A person conceals a kidnapped girl, knowing she was abducted to be sold into prostitution.",
+    "ipc_sections": [
+      "368",
+      "372"
+    ]
+  },
+  {
+    "scenario": "A man forces his wife, from whom he is legally separated, to have sexual intercourse against her will.",
+    "ipc_sections": [
+      "375",
+      "376B"
+    ]
+  },
+  {
+    "scenario": "A group of men sexually assault a woman, all acting with a shared intention.",
+    "ipc_sections": [
+      "375",
+      "376D"
+    ]
+  },
+  {
+    "scenario": "A hospital manager uses his position to coerce a female patient into having sexual intercourse with him.",
+    "ipc_sections": [
+      "375",
+      "376C"
+    ]
+  },
+  {
+    "scenario": "A man buys a 16-year-old girl with the intention of forcing her into prostitution.",
+    "ipc_sections": [
+      "372",
+      "373"
+    ]
+  },
+  {
+    "scenario": "A factory owner compels his workers to work overtime without pay and against their will.",
+    "ipc_sections": [
+      "374"
+    ]
+  },
+  {
+    "scenario": "A group of men rape a 10-year-old girl.",
+    "ipc_sections": [
+      "375",
+      "376AB",
+      "376DA"
+    ]
+  },
+  {
+    "scenario": "A man rapes a woman and, in the process, inflicts injuries that lead to her death.",
+    "ipc_sections": [
+      "375",
+      "376",
+      "376A"
+    ]
+  },
+  {
+    "scenario": "A jail superintendent coerces a female inmate into sexual acts.",
+    "ipc_sections": [
+      "375",
+      "376C"
+    ]
+  },
+  {
+    "scenario": "A man has sexual intercourse with a woman who is mentally incapacitated and unable to give consent.",
+    "ipc_sections": [
+      "375"
+    ]
+  },
+  {
+    "scenario": "A man deceives a woman into believing he is her husband and has sexual intercourse with her.",
+    "ipc_sections": [
+      "375"
+    ]
+  },
+  {
+    "scenario": "A man forces a woman to perform oral sex against her will.",
+    "ipc_sections": [
+      "375"
+    ]
+  },
+  {
+    "scenario": "A man inserts an object into a woman's anus without her consent.",
+    "ipc_sections": [
+      "375"
+    ]
+  },
+  {
+    "scenario": "A man manipulates a woman's body to cause penetration into her vagina against her will.",
+    "ipc_sections": [
+      "375"
+    ]
+  },
+  {
+    "scenario": "A man forces a woman to work in his house without pay and restricts her movement.",
+    "ipc_sections": [
+      "374"
+    ]
+  },
+  {
+    "scenario": "A group of men rape a woman, and she is left in a persistent vegetative state.",
+    "ipc_sections": [
+      "375",
+      "376",
+      "376D"
+    ]
+  },
+  {
+    "scenario": "A public servant uses his authority to sexually assault a woman under his charge.",
+    "ipc_sections": [
+      "375",
+      "376C"
+    ]
+  },
+  {
+    "scenario": "A man rapes a woman who is under the influence of drugs and unable to consent.",
+    "ipc_sections": [
+      "375"
+    ]
+  },
+  {
+    "scenario": "A man buys a 17-year-old girl knowing she will be used for illicit intercourse.",
+    "ipc_sections": [
+      "373"
+    ]
+  },
+  {
+    "scenario": "A man forces a woman to work as a bonded labourer in his field.",
+    "ipc_sections": [
+      "374"
+    ]
+  },
+  {
+    "scenario": "A group of men rape a 15-year-old girl, resulting in severe injuries.",
+    "ipc_sections": [
+      "375",
+      "376AB",
+      "376DA"
+    ]
+  },
+  {
+    "scenario": "A group of men gang-rape a 10-year-old girl.",
+    "ipc_sections": [
+      "376DB"
+    ]
+  },
+  {
+    "scenario": "A man previously convicted of rape commits another rape.",
+    "ipc_sections": [
+      "376E",
+      "376"
+    ]
+  },
+  {
+    "scenario": "A man forces another man to engage in anal sex.",
+    "ipc_sections": [
+      "377"
+    ]
+  },
+  {
+    "scenario": "A person picks up a wallet from a table with the intention of keeping the money inside without the owner's permission.",
+    "ipc_sections": [
+      "378",
+      "379"
+    ]
+  },
+  {
+    "scenario": "A person breaks into a house and steals jewelry.",
+    "ipc_sections": [
+      "378",
+      "380"
+    ]
+  },
+  {
+    "scenario": "A servant steals money from his employer's safe.",
+    "ipc_sections": [
+      "378",
+      "381"
+    ]
+  },
+  {
+    "scenario": "A thief prepares to use a knife to threaten anyone who tries to stop him from stealing.",
+    "ipc_sections": [
+      "378",
+      "382"
+    ]
+  },
+  {
+    "scenario": "A man threatens to reveal a woman's secret unless she gives him money.",
+    "ipc_sections": [
+      "383",
+      "384"
+    ]
+  },
+  {
+    "scenario": "A person steals a car.",
+    "ipc_sections": [
+      "378",
+      "379"
+    ]
+  },
+  {
+    "scenario": "A person steals from a ship docked at a port.",
+    "ipc_sections": [
+      "378",
+      "380"
+    ]
+  },
+  {
+    "scenario": "A cashier steals money from the cash register at their workplace.",
+    "ipc_sections": [
+      "378",
+      "381"
+    ]
+  },
+  {
+    "scenario": "A thief carries a gun while stealing, intending to use it if necessary.",
+    "ipc_sections": [
+      "378",
+      "382"
+    ]
+  },
+  {
+    "scenario": "A person threatens to physically harm someone's family if they don't pay him money.",
+    "ipc_sections": [
+      "383",
+      "384"
+    ]
+  },
+  {
+    "scenario": "A man rapes a woman and is later convicted. After serving his sentence, he rapes another woman.",
+    "ipc_sections": [
+      "376",
+      "376E"
+    ]
+  },
+  {
+    "scenario": "A group of men with a common intention rape a woman under 12 years of age.",
+    "ipc_sections": [
+      "376DB"
+    ]
+  },
+  {
+    "scenario": "A person steals a bicycle parked outside a store.",
+    "ipc_sections": [
+      "378",
+      "379"
+    ]
+  },
+  {
+    "scenario": "A person breaks into a tent and steals camping equipment.",
+    "ipc_sections": [
+      "378",
+      "380"
+    ]
+  },
+  {
+    "scenario": "A security guard steals valuable items from the warehouse he is guarding.",
+    "ipc_sections": [
+      "378",
+      "381"
+    ]
+  },
+  {
+    "scenario": "A thief carries a weapon and threatens to use it if caught during a theft.",
+    "ipc_sections": [
+      "378",
+      "382"
+    ]
+  },
+  {
+    "scenario": "A person threatens to release compromising photos of someone unless they pay him a large sum of money.",
+    "ipc_sections": [
+      "383",
+      "384"
+    ]
+  },
+  {
+    "scenario": "A man threatens to kill a shopkeeper if he doesn't hand over all the money in the cash register.",
+    "ipc_sections": [
+      "386",
+      "390"
+    ]
+  },
+  {
+    "scenario": "A group of six men surround a traveler on a deserted road at night, demanding his valuables and physically assaulting him when he resists.",
+    "ipc_sections": [
+      "391",
+      "392",
+      "394"
+    ]
+  },
+  {
+    "scenario": "A woman threatens to falsely accuse her neighbor of rape unless he pays her a large sum of money.",
+    "ipc_sections": [
+      "388"
+    ]
+  },
+  {
+    "scenario": "A man attempts to extort money from a businessman by threatening to reveal his affair to his wife.",
+    "ipc_sections": [
+      "385"
+    ]
+  },
+  {
+    "scenario": "A gang plans to rob a bank, but they are caught by the police before they can enter the building.",
+    "ipc_sections": [
+      "393"
+    ]
+  },
+  {
+    "scenario": "A group of five men break into a house and steal jewelry and cash, but one of the residents wakes up and is injured during the robbery.",
+    "ipc_sections": [
+      "391",
+      "392",
+      "394"
+    ]
+  },
+  {
+    "scenario": "A man threatens to severely injure a person's family member if they don't pay him a ransom.",
+    "ipc_sections": [
+      "387"
+    ]
+  },
+  {
+    "scenario": "A person attempts to extort money from a government official by threatening to expose his corrupt practices.",
+    "ipc_sections": [
+      "385"
+    ]
+  },
+  {
+    "scenario": "A group of individuals conspire to commit a robbery, but their plan is foiled by an informant.",
+    "ipc_sections": [
+      "393"
+    ]
+  },
+  {
+    "scenario": "A man on a motorcycle snatches a woman's purse at gunpoint, causing her to fall and sustain injuries.",
+    "ipc_sections": [
+      "390",
+      "392",
+      "394"
+    ]
+  },
+  {
+    "scenario": "A person threatens to accuse another of a crime punishable by 10 years imprisonment unless they pay a sum of money.",
+    "ipc_sections": [
+      "388"
+    ]
+  },
+  {
+    "scenario": "A group of five people attempt to rob a store, but are unsuccessful and flee the scene.",
+    "ipc_sections": [
+      "391",
+      "393"
+    ]
+  },
+  {
+    "scenario": "A man threatens to kill a person if they don't sign over their property to him.",
+    "ipc_sections": [
+      "386"
+    ]
+  },
+  {
+    "scenario": "A person attempts to put another in fear of grievous hurt in order to get them to hand over their wallet.",
+    "ipc_sections": [
+      "387",
+      "390"
+    ]
+  },
+  {
+    "scenario": "A group of robbers break into a house at night and steal valuables.",
+    "ipc_sections": [
+      "391",
+      "392"
+    ]
+  },
+  {
+    "scenario": "A man attempts to rob a bank, but is apprehended by security guards before he can steal any money.",
+    "ipc_sections": [
+      "393"
+    ]
+  },
+  {
+    "scenario": "A person threatens to falsely accuse another of a crime punishable with life imprisonment in order to extort money.",
+    "ipc_sections": [
+      "389"
+    ]
+  },
+  {
+    "scenario": "While attempting to rob a house, a robber injures one of the occupants.",
+    "ipc_sections": [
+      "392",
+      "394"
+    ]
+  },
+  {
+    "scenario": "A group of six men rob a train, stealing valuables from the passengers.",
+    "ipc_sections": [
+      "391",
+      "392"
+    ]
+  },
+  {
+    "scenario": "A person attempts to extort money by threatening to reveal a damaging secret.",
+    "ipc_sections": [
+      "385"
+    ]
+  },
+  {
+    "scenario": "A group of five armed men break into a house, steal valuables, and one of them shoots and kills the homeowner.",
+    "ipc_sections": [
+      "396",
+      "397",
+      "395"
+    ]
+  },
+  {
+    "scenario": "A man plans a dacoity with his friends, gathering weapons and scouting a target location, but they are apprehended before the actual robbery.",
+    "ipc_sections": [
+      "399",
+      "402"
+    ]
+  },
+  {
+    "scenario": "A known member of a dacoit gang is found to be living in a village, even though he hasn't committed any recent crimes.",
+    "ipc_sections": [
+      "400"
+    ]
+  },
+  {
+    "scenario": "A group of individuals, known for petty thefts, form a gang and start committing robberies on highways.",
+    "ipc_sections": [
+      "401"
+    ]
+  },
+  {
+    "scenario": "A person finds a wallet on the street and uses the money inside without attempting to find the owner.",
+    "ipc_sections": [
+      "403"
+    ]
+  },
+  {
+    "scenario": "A caretaker of an elderly woman's house steals her jewelry after she passes away, before her relatives can claim it.",
+    "ipc_sections": [
+      "404"
+    ]
+  },
+  {
+    "scenario": "Five men are caught with weapons near a bank at night, clearly intending to rob it, but are arrested before they can act.",
+    "ipc_sections": [
+      "398",
+      "402"
+    ]
+  },
+  {
+    "scenario": "A servant steals valuable antiques from his employer's house and sells them.",
+    "ipc_sections": [
+      "403"
+    ]
+  },
+  {
+    "scenario": "A group of six people assemble with weapons, planning to raid a wealthy farmer's house in the countryside.",
+    "ipc_sections": [
+      "399",
+      "402"
+    ]
+  },
+  {
+    "scenario": "A man, while attempting a robbery, threatens the victim with a knife but doesn't cause any physical harm.",
+    "ipc_sections": [
+      "398"
+    ]
+  },
+  {
+    "scenario": "A person finds a valuable painting in an abandoned house and keeps it for himself without reporting it to the authorities.",
+    "ipc_sections": [
+      "403"
+    ]
+  },
+  {
+    "scenario": "A nurse steals cash and jewelry from a patient who recently passed away in the hospital.",
+    "ipc_sections": [
+      "404"
+    ]
+  },
+  {
+    "scenario": "A group of five men, armed with sticks and knives, rob a small shop at night.",
+    "ipc_sections": [
+      "395",
+      "397"
+    ]
+  },
+  {
+    "scenario": "A person is caught buying weapons and drawing maps of a potential target for a dacoity.",
+    "ipc_sections": [
+      "399"
+    ]
+  },
+  {
+    "scenario": "A known member of a gang that habitually commits dacoity is arrested while planning another robbery.",
+    "ipc_sections": [
+      "400",
+      "399"
+    ]
+  },
+  {
+    "scenario": "A group of nomadic people are found to be involved in a series of thefts and robberies in different villages.",
+    "ipc_sections": [
+      "401"
+    ]
+  },
+  {
+    "scenario": "A person finds a gold necklace in a park and sells it to a pawn shop without making any effort to find the owner.",
+    "ipc_sections": [
+      "403"
+    ]
+  },
+  {
+    "scenario": "An employee of a wealthy businessman steals a large sum of money from his employer's safe after his death.",
+    "ipc_sections": [
+      "404"
+    ]
+  },
+  {
+    "scenario": "Five armed men break into a house, tie up the residents, and steal all their valuables.",
+    "ipc_sections": [
+      "395"
+    ]
+  },
+  {
+    "scenario": "A person attempts to rob a bank while armed with a fake gun.",
+    "ipc_sections": [
+      "398"
+    ]
+  },
+  {
+    "scenario": "A cashier at a supermarket pockets some of the cash from the register at the end of their shift.",
+    "ipc_sections": [
+      "405",
+      "408",
+      "406"
+    ]
+  },
+  {
+    "scenario": "A warehouse manager sells off some of the goods stored in the warehouse for personal profit.",
+    "ipc_sections": [
+      "405",
+      "407",
+      "406"
+    ]
+  },
+  {
+    "scenario": "A government official takes bribes in exchange for awarding contracts.",
+    "ipc_sections": [
+      "405",
+      "409",
+      "406"
+    ]
+  },
+  {
+    "scenario": "A person knowingly buys a laptop from someone who admits they stole it.",
+    "ipc_sections": [
+      "410",
+      "411"
+    ]
+  },
+  {
+    "scenario": "A person finds a wallet on the street and keeps the money inside instead of trying to find the owner.",
+    "ipc_sections": [
+      "405"
+    ]
+  },
+  {
+    "scenario": "A courier company employee steals a package containing valuable jewelry.",
+    "ipc_sections": [
+      "405",
+      "407",
+      "406"
+    ]
+  },
+  {
+    "scenario": "A lawyer uses funds from a client's trust account for personal expenses.",
+    "ipc_sections": [
+      "405",
+      "409",
+      "406"
+    ]
+  },
+  {
+    "scenario": "A person receives stolen goods from a known dacoit.",
+    "ipc_sections": [
+      "410",
+      "412"
+    ]
+  },
+  {
+    "scenario": "A pawn shop owner regularly buys items from individuals suspected of theft, without asking questions.",
+    "ipc_sections": [
+      "410",
+      "413"
+    ]
+  },
+  {
+    "scenario": "A person helps a thief hide stolen jewelry in their house.",
+    "ipc_sections": [
+      "410",
+      "414"
+    ]
+  },
+  {
+    "scenario": "An accountant embezzles money from their employer's company account.",
+    "ipc_sections": [
+      "405",
+      "408",
+      "406"
+    ]
+  },
+  {
+    "scenario": "A bank teller transfers money from a dormant account to their own account.",
+    "ipc_sections": [
+      "405",
+      "409",
+      "406"
+    ]
+  },
+  {
+    "scenario": "Someone knowingly purchases a car that was stolen during a robbery.",
+    "ipc_sections": [
+      "410",
+      "411",
+      "412"
+    ]
+  },
+  {
+    "scenario": "A person makes a living by buying and selling stolen electronics.",
+    "ipc_sections": [
+      "410",
+      "413"
+    ]
+  },
+  {
+    "scenario": "A person helps a friend sell stolen artwork online.",
+    "ipc_sections": [
+      "410",
+      "414"
+    ]
+  },
+  {
+    "scenario": "A trustee of a charity uses the charity's funds to buy a luxury car for themselves.",
+    "ipc_sections": [
+      "405",
+      "409",
+      "406"
+    ]
+  },
+  {
+    "scenario": "A real estate agent uses client's deposit for personal investment.",
+    "ipc_sections": [
+      "405",
+      "409",
+      "406"
+    ]
+  },
+  {
+    "scenario": "A person knowingly buys jewelry from a street vendor who is known to sell stolen goods.",
+    "ipc_sections": [
+      "410",
+      "411"
+    ]
+  },
+  {
+    "scenario": "A scrap metal dealer regularly buys metal from individuals who are suspected of stealing it from construction sites.",
+    "ipc_sections": [
+      "410",
+      "413"
+    ]
+  },
+  {
+    "scenario": "A person helps a friend dispose of stolen goods by melting them down.",
+    "ipc_sections": [
+      "410",
+      "414"
+    ]
+  },
+  {
+    "scenario": "A conman pretends to be a government official to convince an elderly woman to hand over her life savings.",
+    "ipc_sections": [
+      "415",
+      "416",
+      "419",
+      "420"
+    ]
+  },
+  {
+    "scenario": "A shopkeeper sells counterfeit goods, deceiving customers into believing they are genuine products.",
+    "ipc_sections": [
+      "415",
+      "417"
+    ]
+  },
+  {
+    "scenario": "A trustee of a charitable trust embezzles funds meant for the beneficiaries.",
+    "ipc_sections": [
+      "415",
+      "418",
+      "420"
+    ]
+  },
+  {
+    "scenario": "A person creates a fake ID to secure a loan from a bank.",
+    "ipc_sections": [
+      "416",
+      "419",
+      "420"
+    ]
+  },
+  {
+    "scenario": "A builder uses substandard materials in construction, causing potential harm to residents, despite promising high-quality construction.",
+    "ipc_sections": [
+      "415",
+      "418"
+    ]
+  },
+  {
+    "scenario": "A man sells a property that is already mortgaged, without disclosing this fact to the buyer.",
+    "ipc_sections": [
+      "415",
+      "420"
+    ]
+  },
+  {
+    "scenario": "A debtor transfers his assets to a relative to avoid paying his creditors.",
+    "ipc_sections": [
+      "421",
+      "424"
+    ]
+  },
+  {
+    "scenario": "A person refuses to repay a loan, claiming he never received the money, despite having signed a loan agreement.",
+    "ipc_sections": [
+      "415",
+      "422"
+    ]
+  },
+  {
+    "scenario": "A father executes a gift deed for his property to his son, but falsely states a higher consideration amount to avoid stamp duty.",
+    "ipc_sections": [
+      "423"
+    ]
+  },
+  {
+    "scenario": "A person hides valuable jewelry from tax authorities during a raid.",
+    "ipc_sections": [
+      "424"
+    ]
+  },
+  {
+    "scenario": "An employee forges signatures on company checks to withdraw money for personal use.",
+    "ipc_sections": [
+      "415",
+      "420"
+    ]
+  },
+  {
+    "scenario": "A student impersonates another student during an examination.",
+    "ipc_sections": [
+      "416",
+      "419"
+    ]
+  },
+  {
+    "scenario": "A car dealer sells a damaged car as a new one, concealing the accident history.",
+    "ipc_sections": [
+      "415",
+      "417"
+    ]
+  },
+  {
+    "scenario": "A lawyer misrepresents facts in court to win a case, causing harm to the opposing party.",
+    "ipc_sections": [
+      "415",
+      "418"
+    ]
+  },
+  {
+    "scenario": "A person takes out multiple insurance policies on the same property and then stages an accident to claim the benefits.",
+    "ipc_sections": [
+      "415",
+      "420"
+    ]
+  },
+  {
+    "scenario": "A company director transfers company assets to his personal account before declaring bankruptcy.",
+    "ipc_sections": [
+      "421",
+      "424"
+    ]
+  },
+  {
+    "scenario": "A landlord refuses to acknowledge rent payments made by a tenant to avoid making necessary repairs.",
+    "ipc_sections": [
+      "415",
+      "422"
+    ]
+  },
+  {
+    "scenario": "A seller creates a fake invoice with an inflated price to obtain a higher loan amount from a bank.",
+    "ipc_sections": [
+      "423",
+      "420"
+    ]
+  },
+  {
+    "scenario": "A person destroys evidence to prevent it from being used against them in a legal case.",
+    "ipc_sections": [
+      "424"
+    ]
+  },
+  {
+    "scenario": "A website developer promises to deliver a fully functional e-commerce platform but delivers a broken and unusable product, taking the client's money.",
+    "ipc_sections": [
+      "415",
+      "417"
+    ]
+  },
+  {
+    "scenario": "A group of protestors intentionally damage public property during a demonstration, causing losses exceeding 5000 rupees.",
+    "ipc_sections": [
+      "425",
+      "427"
+    ]
+  },
+  {
+    "scenario": "An individual poisons a neighbor's cow, which is worth 15,000 rupees, out of spite.",
+    "ipc_sections": [
+      "425",
+      "428"
+    ]
+  },
+  {
+    "scenario": "A factory owner deliberately pollutes a river, significantly reducing the water supply available for nearby farms.",
+    "ipc_sections": [
+      "425",
+      "430"
+    ]
+  },
+  {
+    "scenario": "Someone intentionally damages a bridge, making it unsafe for vehicles to cross.",
+    "ipc_sections": [
+      "425",
+      "431"
+    ]
+  },
+  {
+    "scenario": "A person deliberately blocks a public drainage system, causing flooding in a residential area.",
+    "ipc_sections": [
+      "425",
+      "432"
+    ]
+  },
+  {
+    "scenario": "Vandals destroy a lighthouse, causing potential danger to ships at sea.",
+    "ipc_sections": [
+      "425",
+      "433"
+    ]
+  },
+  {
+    "scenario": "A farmer moves a boundary marker placed by the land survey department to illegally expand his property.",
+    "ipc_sections": [
+      "425",
+      "434"
+    ]
+  },
+  {
+    "scenario": "A person throws stones at a car, causing damage worth 1000 rupees.",
+    "ipc_sections": [
+      "425",
+      "427"
+    ]
+  },
+  {
+    "scenario": "Someone releases harmful chemicals into a water reservoir, contaminating the drinking water supply.",
+    "ipc_sections": [
+      "425",
+      "430"
+    ]
+  },
+  {
+    "scenario": "A group of individuals dig up a public road, making it impassable for vehicles.",
+    "ipc_sections": [
+      "425",
+      "431"
+    ]
+  },
+  {
+    "scenario": "A person intentionally clogs a public drain, leading to sewage overflow and health hazards.",
+    "ipc_sections": [
+      "425",
+      "432"
+    ]
+  },
+  {
+    "scenario": "Someone tampers with a navigational buoy, causing it to malfunction and potentially mislead ships.",
+    "ipc_sections": [
+      "425",
+      "433"
+    ]
+  },
+  {
+    "scenario": "A person removes a survey stone marking the boundary of a government forest.",
+    "ipc_sections": [
+      "425",
+      "434"
+    ]
+  },
+  {
+    "scenario": "An individual sets fire to a pile of garbage, causing damage to a nearby building worth 75 rupees.",
+    "ipc_sections": [
+      "425",
+      "427"
+    ]
+  },
+  {
+    "scenario": "A factory diverts water from a river, leaving downstream farmers without enough water for irrigation.",
+    "ipc_sections": [
+      "425",
+      "430"
+    ]
+  },
+  {
+    "scenario": "Someone dumps construction debris on a public road, obstructing traffic.",
+    "ipc_sections": [
+      "425",
+      "431"
+    ]
+  },
+  {
+    "scenario": "A person intentionally blocks a drainage canal, causing water to flood nearby agricultural land.",
+    "ipc_sections": [
+      "425",
+      "432"
+    ]
+  },
+  {
+    "scenario": "Someone shines a laser pointer at a lighthouse, temporarily blinding the operator and disrupting navigation.",
+    "ipc_sections": [
+      "425",
+      "433"
+    ]
+  },
+  {
+    "scenario": "A person defaces a government-installed milestone on a highway, making it difficult for travelers to estimate distances.",
+    "ipc_sections": [
+      "425",
+      "434"
+    ]
+  },
+  {
+    "scenario": "An individual poisons a neighbor's pet dog, worth 5000 rupees, after a dispute.",
+    "ipc_sections": [
+      "425",
+      "428"
+    ]
+  },
+  {
+    "scenario": "A man sets fire to a farmer's wheat field, causing damage worth 5000 rupees.",
+    "ipc_sections": [
+      "435"
+    ]
+  },
+  {
+    "scenario": "A group of vandals break into a church and set it ablaze using gasoline.",
+    "ipc_sections": [
+      "436"
+    ]
+  },
+  {
+    "scenario": "A disgruntled employee sabotages a cargo ship by damaging its engine, rendering it unsafe to sail.",
+    "ipc_sections": [
+      "437"
+    ]
+  },
+  {
+    "scenario": "Someone attempts to set fire to a warehouse containing valuable goods, but the fire is quickly extinguished before causing significant damage.",
+    "ipc_sections": [
+      "438",
+      "436"
+    ]
+  },
+  {
+    "scenario": "A captain intentionally runs his ship aground to steal valuable cargo on board.",
+    "ipc_sections": [
+      "439"
+    ]
+  },
+  {
+    "scenario": "A person prepares a trap with the intention of causing grievous hurt to someone and then commits mischief by damaging their car.",
+    "ipc_sections": [
+      "440"
+    ]
+  },
+  {
+    "scenario": "A man enters his neighbor's property with the intent to steal their pet dog.",
+    "ipc_sections": [
+      "441"
+    ]
+  },
+  {
+    "scenario": "A woman enters a temple after closing hours with the intention of stealing the donation box.",
+    "ipc_sections": [
+      "442",
+      "441"
+    ]
+  },
+  {
+    "scenario": "A thief secretly enters a house at night, taking precautions to avoid being seen by the occupants.",
+    "ipc_sections": [
+      "443"
+    ]
+  },
+  {
+    "scenario": "A group of burglars break into a house after midnight while the family is asleep.",
+    "ipc_sections": [
+      "444",
+      "443"
+    ]
+  },
+  {
+    "scenario": "A man sets fire to his neighbor's car, causing damage worth 150 rupees.",
+    "ipc_sections": [
+      "435"
+    ]
+  },
+  {
+    "scenario": "A person throws a Molotov cocktail at a residential building, causing significant fire damage.",
+    "ipc_sections": [
+      "436"
+    ]
+  },
+  {
+    "scenario": "Someone attempts to damage a large fishing vessel with the intention of rendering it unusable.",
+    "ipc_sections": [
+      "437"
+    ]
+  },
+  {
+    "scenario": "An individual tries to set fire to a boat using gasoline, but is caught before the boat is destroyed.",
+    "ipc_sections": [
+      "438",
+      "437"
+    ]
+  },
+  {
+    "scenario": "A ship captain deliberately grounds his vessel to claim insurance money.",
+    "ipc_sections": [
+      "439"
+    ]
+  },
+  {
+    "scenario": "A person damages someone's property after making preparations to physically assault them.",
+    "ipc_sections": [
+      "440"
+    ]
+  },
+  {
+    "scenario": "A man enters a woman's house without permission and refuses to leave, causing her distress.",
+    "ipc_sections": [
+      "441"
+    ]
+  },
+  {
+    "scenario": "A person breaks into a storage unit to steal valuable items.",
+    "ipc_sections": [
+      "442",
+      "441"
+    ]
+  },
+  {
+    "scenario": "A trespasser enters a property at night, hiding from the security guard.",
+    "ipc_sections": [
+      "443"
+    ]
+  },
+  {
+    "scenario": "A group of masked individuals break into a house late at night with the intention of robbing the occupants.",
+    "ipc_sections": [
+      "444",
+      "443",
+      "442"
+    ]
+  },
+  {
+    "scenario": "A man breaks into a house at night by climbing over the wall to steal jewelry.",
+    "ipc_sections": [
+      "445",
+      "446",
+      "453"
+    ]
+  },
+  {
+    "scenario": "A group of protestors forcefully enter a government building to voice their concerns.",
+    "ipc_sections": [
+      "447",
+      "448"
+    ]
+  },
+  {
+    "scenario": "A person enters a house with the intention of murdering the occupant.",
+    "ipc_sections": [
+      "448",
+      "449"
+    ]
+  },
+  {
+    "scenario": "A thief breaks into a house to steal money and is caught by the homeowner.",
+    "ipc_sections": [
+      "445",
+      "451"
+    ]
+  },
+  {
+    "scenario": "A man enters his ex-girlfriend's house without her permission and threatens her.",
+    "ipc_sections": [
+      "448",
+      "452"
+    ]
+  },
+  {
+    "scenario": "A person secretly enters a house at night to steal valuables.",
+    "ipc_sections": [
+      "446",
+      "453"
+    ]
+  },
+  {
+    "scenario": "A burglar breaks into a house to steal and assaults the residents.",
+    "ipc_sections": [
+      "445",
+      "452",
+      "454"
+    ]
+  },
+  {
+    "scenario": "A man enters a house to commit theft, knowing the residents are away.",
+    "ipc_sections": [
+      "448",
+      "451"
+    ]
+  },
+  {
+    "scenario": "A person breaks into a house at night with the intention of committing rape.",
+    "ipc_sections": [
+      "446",
+      "449",
+      "454"
+    ]
+  },
+  {
+    "scenario": "A group of people trespass onto private property to build a makeshift shelter.",
+    "ipc_sections": [
+      "447",
+      "448"
+    ]
+  },
+  {
+    "scenario": "A man breaks into a house by picking the lock to steal confidential documents.",
+    "ipc_sections": [
+      "445",
+      "451"
+    ]
+  },
+  {
+    "scenario": "A person enters a house with the intention of causing grievous hurt to the occupant.",
+    "ipc_sections": [
+      "448",
+      "452"
+    ]
+  },
+  {
+    "scenario": "A stalker secretly enters a woman's house at night.",
+    "ipc_sections": [
+      "446",
+      "453"
+    ]
+  },
+  {
+    "scenario": "A person breaks into a house to commit theft and is armed with a knife.",
+    "ipc_sections": [
+      "445",
+      "452",
+      "454"
+    ]
+  },
+  {
+    "scenario": "A man enters a house with the intention of committing robbery.",
+    "ipc_sections": [
+      "448",
+      "451"
+    ]
+  },
+  {
+    "scenario": "A person breaks into a house at night with the intention of setting it on fire.",
+    "ipc_sections": [
+      "446",
+      "449",
+      "454"
+    ]
+  },
+  {
+    "scenario": "A group of squatters occupy an abandoned house without permission.",
+    "ipc_sections": [
+      "447",
+      "448"
+    ]
+  },
+  {
+    "scenario": "A man breaks into a house by creating a new passage in the wall to steal antiques.",
+    "ipc_sections": [
+      "445",
+      "451"
+    ]
+  },
+  {
+    "scenario": "A person enters a house with the intention of kidnapping a child.",
+    "ipc_sections": [
+      "448",
+      "452"
+    ]
+  },
+  {
+    "scenario": "A former tenant enters a property they were evicted from, damaging the property.",
+    "ipc_sections": [
+      "447",
+      "448"
+    ]
+  },
+  {
+    "scenario": "A man breaks into a house at night with the intention of stealing jewelry. He is caught by the homeowner and attempts to flee, causing the homeowner to fall and break his arm.",
+    "ipc_sections": [
+      "457",
+      "459"
+    ]
+  },
+  {
+    "scenario": "A group of burglars break into a house at night. One of them, while inside, stabs the homeowner who confronts them.",
+    "ipc_sections": [
+      "460",
+      "457"
+    ]
+  },
+  {
+    "scenario": "A person forges a will to claim inheritance rights to a property that is not rightfully theirs.",
+    "ipc_sections": [
+      "463",
+      "464"
+    ]
+  },
+  {
+    "scenario": "A man breaks into a house during the day, intending to assault the occupant. He had previously purchased a weapon for this purpose.",
+    "ipc_sections": [
+      "455"
+    ]
+  },
+  {
+    "scenario": "A woman breaks into her neighbor's house at night to steal a valuable painting.",
+    "ipc_sections": [
+      "456",
+      "457"
+    ]
+  },
+  {
+    "scenario": "A group of individuals plan to break into a house at night, armed with knives, intending to rob the occupants. They are apprehended before entering the house.",
+    "ipc_sections": [
+      "458"
+    ]
+  },
+  {
+    "scenario": "A person finds a locked safe and breaks it open, hoping to find valuable items inside. The safe contains cash and jewelry.",
+    "ipc_sections": [
+      "461"
+    ]
+  },
+  {
+    "scenario": "An employee entrusted with a locked cash box breaks it open to steal money from their employer.",
+    "ipc_sections": [
+      "462"
+    ]
+  },
+  {
+    "scenario": "A person creates a fake ID card to gain access to a restricted area.",
+    "ipc_sections": [
+      "463",
+      "464"
+    ]
+  },
+  {
+    "scenario": "A man breaks into a house at night to steal food because he is starving.",
+    "ipc_sections": [
+      "456",
+      "457"
+    ]
+  },
+  {
+    "scenario": "A person alters a medical certificate to get sick leave from work.",
+    "ipc_sections": [
+      "463",
+      "464"
+    ]
+  },
+  {
+    "scenario": "A burglar breaks into a house at night and, while inside, threatens the occupants with a knife.",
+    "ipc_sections": [
+      "458"
+    ]
+  },
+  {
+    "scenario": "A person breaks into a house during the day with the intention of vandalizing it.",
+    "ipc_sections": [
+      "455"
+    ]
+  },
+  {
+    "scenario": "A group of people break into a house at night, and one of them severely injures the homeowner.",
+    "ipc_sections": [
+      "460",
+      "459"
+    ]
+  },
+  {
+    "scenario": "A person forges a signature on a check to withdraw money from someone else's account.",
+    "ipc_sections": [
+      "463",
+      "464"
+    ]
+  },
+  {
+    "scenario": "A man breaks into a house at night to stalk a woman living there.",
+    "ipc_sections": [
+      "456",
+      "457"
+    ]
+  },
+  {
+    "scenario": "A person entrusted with a locked diary breaks it open to read someone else's private thoughts.",
+    "ipc_sections": [
+      "462"
+    ]
+  },
+  {
+    "scenario": "A person creates a fake invoice to defraud a company.",
+    "ipc_sections": [
+      "463",
+      "464"
+    ]
+  },
+  {
+    "scenario": "A man breaks into a house during the day, armed with a crowbar, intending to steal electronics.",
+    "ipc_sections": [
+      "455"
+    ]
+  },
+  {
+    "scenario": "A person breaks into a house at night and steals a laptop, then attempts to sell it online.",
+    "ipc_sections": [
+      "457"
+    ]
+  },
+  {
+    "scenario": "A man creates a fake property deed to claim ownership of a house that doesn't belong to him, then attempts to sell it.",
+    "ipc_sections": [
+      "467",
+      "468",
+      "471"
+    ]
+  },
+  {
+    "scenario": "A woman forges a birth certificate to enroll her child in a school district where she doesn't reside.",
+    "ipc_sections": [
+      "466",
+      "471"
+    ]
+  },
+  {
+    "scenario": "An individual creates a counterfeit stamp to falsely authenticate official documents.",
+    "ipc_sections": [
+      "472",
+      "467"
+    ]
+  },
+  {
+    "scenario": "A person alters a medical report to falsely claim an injury for insurance purposes.",
+    "ipc_sections": [
+      "466",
+      "468"
+    ]
+  },
+  {
+    "scenario": "A disgruntled employee forges a resignation letter in their manager's name and sends it to HR.",
+    "ipc_sections": [
+      "465",
+      "469"
+    ]
+  },
+  {
+    "scenario": "Someone knowingly uses a fake degree certificate to secure a job.",
+    "ipc_sections": [
+      "471",
+      "465"
+    ]
+  },
+  {
+    "scenario": "A person makes a fake seal of a government office to create fraudulent permits.",
+    "ipc_sections": [
+      "472",
+      "466"
+    ]
+  },
+  {
+    "scenario": "An individual possesses a forged will with the intention of claiming inheritance.",
+    "ipc_sections": [
+      "474",
+      "467"
+    ]
+  },
+  {
+    "scenario": "A person forges a signature on a check to withdraw money from someone else's account.",
+    "ipc_sections": [
+      "467",
+      "468",
+      "471"
+    ]
+  },
+  {
+    "scenario": "Someone creates a fake document to falsely accuse a neighbor of a crime.",
+    "ipc_sections": [
+      "465",
+      "469"
+    ]
+  },
+  {
+    "scenario": "A person alters a receipt to claim a higher reimbursement from their employer.",
+    "ipc_sections": [
+      "465",
+      "468"
+    ]
+  },
+  {
+    "scenario": "An individual makes a counterfeit currency note.",
+    "ipc_sections": [
+      "473",
+      "467"
+    ]
+  },
+  {
+    "scenario": "A person uses a forged power of attorney to sell someone else's property.",
+    "ipc_sections": [
+      "466",
+      "467",
+      "471"
+    ]
+  },
+  {
+    "scenario": "Someone possesses a fake passport with the intention of using it for illegal immigration.",
+    "ipc_sections": [
+      "474",
+      "466"
+    ]
+  },
+  {
+    "scenario": "A person forges a court order to prevent someone from traveling abroad.",
+    "ipc_sections": [
+      "466",
+      "469"
+    ]
+  },
+  {
+    "scenario": "An individual alters a mark sheet to improve their grades for college admission.",
+    "ipc_sections": [
+      "465",
+      "468"
+    ]
+  },
+  {
+    "scenario": "A person creates a fake adoption deed to claim parental rights.",
+    "ipc_sections": [
+      "467",
+      "471"
+    ]
+  },
+  {
+    "scenario": "Someone possesses a forged driving license with the intention of using it to avoid traffic fines.",
+    "ipc_sections": [
+      "474",
+      "465"
+    ]
+  },
+  {
+    "scenario": "A person forges a letter of recommendation to get into a prestigious university.",
+    "ipc_sections": [
+      "465",
+      "468"
+    ]
+  },
+  {
+    "scenario": "An individual creates a fake invoice to evade taxes.",
+    "ipc_sections": [
+      "465",
+      "468"
+    ]
+  },
+  {
+    "scenario": "A forger creates a fake stamp resembling the official seal used on land deeds to make a fraudulent property transfer appear legitimate.",
+    "ipc_sections": [
+      "475",
+      "467"
+    ]
+  },
+  {
+    "scenario": "An individual alters a company's financial records to embezzle funds, making false entries and concealing the theft.",
+    "ipc_sections": [
+      "477A"
+    ]
+  },
+  {
+    "scenario": "A disgruntled employee destroys a crucial contract document to sabotage a business deal, causing financial loss to the company.",
+    "ipc_sections": [
+      "477"
+    ]
+  },
+  {
+    "scenario": "A person marks their goods with a logo very similar to a well-known brand, misleading customers into thinking they are buying the genuine product.",
+    "ipc_sections": [
+      "481",
+      "482"
+    ]
+  },
+  {
+    "scenario": "An individual forges a university transcript using a counterfeit university seal to gain admission to a postgraduate program.",
+    "ipc_sections": [
+      "476"
+    ]
+  },
+  {
+    "scenario": "A clerk intentionally deletes entries from a ledger to hide evidence of their own fraudulent activities.",
+    "ipc_sections": [
+      "477A"
+    ]
+  },
+  {
+    "scenario": "Someone finds a will and destroys it to prevent the intended beneficiary from inheriting the property.",
+    "ipc_sections": [
+      "477"
+    ]
+  },
+  {
+    "scenario": "A manufacturer uses a false property mark on their products to deceive consumers about the origin or quality of the goods.",
+    "ipc_sections": [
+      "481",
+      "482"
+    ]
+  },
+  {
+    "scenario": "A person counterfeits the signature of a notary public on a fake affidavit.",
+    "ipc_sections": [
+      "476"
+    ]
+  },
+  {
+    "scenario": "An accountant alters financial statements to inflate a company's profits, misleading investors.",
+    "ipc_sections": [
+      "477A"
+    ]
+  },
+  {
+    "scenario": "A person tears up a will in anger after discovering they were disinherited.",
+    "ipc_sections": [
+      "477"
+    ]
+  },
+  {
+    "scenario": "A vendor sells counterfeit goods with a fake brand label, knowing it's not the real product.",
+    "ipc_sections": [
+      "481",
+      "482"
+    ]
+  },
+  {
+    "scenario": "A person forges a government official's signature on a fake permit.",
+    "ipc_sections": [
+      "475"
+    ]
+  },
+  {
+    "scenario": "A cashier manipulates the cash register records to steal money from their employer.",
+    "ipc_sections": [
+      "477A"
+    ]
+  },
+  {
+    "scenario": "Someone hides a will to prevent a family member from receiving their inheritance.",
+    "ipc_sections": [
+      "477"
+    ]
+  },
+  {
+    "scenario": "A seller uses a fake 'Made in [Country]' label on products that were actually manufactured elsewhere.",
+    "ipc_sections": [
+      "481",
+      "482"
+    ]
+  },
+  {
+    "scenario": "A person counterfeits the seal of a court on a fake legal document.",
+    "ipc_sections": [
+      "475"
+    ]
+  },
+  {
+    "scenario": "A bookkeeper intentionally omits certain transactions from the company's financial records to evade taxes.",
+    "ipc_sections": [
+      "477A"
+    ]
+  },
+  {
+    "scenario": "A person defaces a will by scribbling on it to invalidate it.",
+    "ipc_sections": [
+      "477"
+    ]
+  },
+  {
+    "scenario": "A company uses a property mark that is a near-identical copy of a competitor's mark to confuse customers.",
+    "ipc_sections": [
+      "481",
+      "483"
+    ]
+  },
+  {
+    "scenario": "A shopkeeper knowingly sells fake branded shoes with a counterfeit logo.",
+    "ipc_sections": [
+      "486",
+      "485"
+    ]
+  },
+  {
+    "scenario": "A person removes the 'Best Before' date from a food product label to sell it after it has expired.",
+    "ipc_sections": [
+      "489",
+      "487"
+    ]
+  },
+  {
+    "scenario": "An individual creates fake government seals on documents to falsely claim authenticity.",
+    "ipc_sections": [
+      "484",
+      "485"
+    ]
+  },
+  {
+    "scenario": "A person buys counterfeit currency notes from a street vendor, knowing they are fake.",
+    "ipc_sections": [
+      "489B",
+      "489C"
+    ]
+  },
+  {
+    "scenario": "A factory owner uses machinery to print counterfeit currency notes.",
+    "ipc_sections": [
+      "489A",
+      "489D"
+    ]
+  },
+  {
+    "scenario": "A person alters the expiry date on a medicine package to make it appear valid.",
+    "ipc_sections": [
+      "489",
+      "487"
+    ]
+  },
+  {
+    "scenario": "A vendor sells goods with a fake 'Made in India' label.",
+    "ipc_sections": [
+      "486",
+      "484"
+    ]
+  },
+  {
+    "scenario": "Someone possesses a printing press specifically designed for counterfeiting currency.",
+    "ipc_sections": [
+      "489D",
+      "485"
+    ]
+  },
+  {
+    "scenario": "A person knowingly uses a counterfeit banknote to pay for groceries.",
+    "ipc_sections": [
+      "489B",
+      "489C"
+    ]
+  },
+  {
+    "scenario": "An individual defaces a government property mark on a seized vehicle to reclaim it.",
+    "ipc_sections": [
+      "489",
+      "484"
+    ]
+  },
+  {
+    "scenario": "A person puts a false label on a package of cheap tea, claiming it's expensive Darjeeling tea.",
+    "ipc_sections": [
+      "487",
+      "488"
+    ]
+  },
+  {
+    "scenario": "A person buys a large quantity of counterfeit currency with the intention of circulating it in the market.",
+    "ipc_sections": [
+      "489B",
+      "489C"
+    ]
+  },
+  {
+    "scenario": "An artist creates a perfect replica of a 500 rupee note as part of an art installation, but it is mistaken for real currency.",
+    "ipc_sections": [
+      "489A",
+      "489D"
+    ]
+  },
+  {
+    "scenario": "A person removes the ISI mark from a substandard electrical appliance and sells it as genuine.",
+    "ipc_sections": [
+      "489",
+      "486"
+    ]
+  },
+  {
+    "scenario": "A company uses a fake certification mark on its products to mislead consumers.",
+    "ipc_sections": [
+      "484",
+      "486"
+    ]
+  },
+  {
+    "scenario": "A person alters the weight markings on a bag of rice to deceive buyers.",
+    "ipc_sections": [
+      "487",
+      "489"
+    ]
+  },
+  {
+    "scenario": "A person is caught with a bag full of counterfeit 2000 rupee notes.",
+    "ipc_sections": [
+      "489C",
+      "489B"
+    ]
+  },
+  {
+    "scenario": "A person manufactures dies for printing fake currency notes.",
+    "ipc_sections": [
+      "489D",
+      "485"
+    ]
+  },
+  {
+    "scenario": "A person uses a counterfeit property mark to falsely claim ownership of a piece of land.",
+    "ipc_sections": [
+      "485",
+      "484"
+    ]
+  },
+  {
+    "scenario": "A person knowingly uses a fake hallmarking symbol on gold jewelry.",
+    "ipc_sections": [
+      "486",
+      "484"
+    ]
+  },
+  {
+    "scenario": "A man prints fake ₹500 notes for use in local markets.",
+    "ipc_sections": [
+      "489E"
+    ]
+  },
+  {
+    "scenario": "A nurse, contractually obligated to care for an elderly patient, repeatedly fails to administer medication.",
+    "ipc_sections": [
+      "491"
+    ]
+  },
+  {
+    "scenario": "A man pretends to be married to a woman and lives with her, knowing they are not legally married.",
+    "ipc_sections": [
+      "493"
+    ]
+  },
+  {
+    "scenario": "A man marries a second woman while still legally married to his first wife.",
+    "ipc_sections": [
+      "494"
+    ]
+  },
+  {
+    "scenario": "A woman marries a man without disclosing that she is already married to someone else.",
+    "ipc_sections": [
+      "495",
+      "494"
+    ]
+  },
+  {
+    "scenario": "A man goes through a marriage ceremony knowing that he is not legally divorced from his first wife.",
+    "ipc_sections": [
+      "496"
+    ]
+  },
+  {
+    "scenario": "A man has consensual sexual relations with a woman he knows is married, without the husband's consent.",
+    "ipc_sections": [
+      "497"
+    ]
+  },
+  {
+    "scenario": "A man lures a married woman away from her husband with the intention of having an affair with her.",
+    "ipc_sections": [
+      "498"
+    ]
+  },
+  {
+    "scenario": "A person makes a document that looks very similar to a ₹2000 note, intending to use it as a prop in a play.",
+    "ipc_sections": [
+      "489E"
+    ]
+  },
+  {
+    "scenario": "A caregiver, hired to look after a disabled child, consistently neglects to feed the child.",
+    "ipc_sections": [
+      "491"
+    ]
+  },
+  {
+    "scenario": "A man convinces a woman that they are married through a fake online ceremony and then has sexual relations with her.",
+    "ipc_sections": [
+      "493"
+    ]
+  },
+  {
+    "scenario": "A person with a living spouse gets married in a different state, where the marriage laws are less strict, but the marriage is still void under Indian law.",
+    "ipc_sections": [
+      "494"
+    ]
+  },
+  {
+    "scenario": "A woman remarries after falsely claiming to be divorced, concealing her previous marriage from her new husband.",
+    "ipc_sections": [
+      "495",
+      "496"
+    ]
+  },
+  {
+    "scenario": "A man participates in a marriage ceremony knowing that the bride is being forced into the marriage and is not consenting.",
+    "ipc_sections": [
+      "496"
+    ]
+  },
+  {
+    "scenario": "A man has an affair with a married woman, and the husband finds out and files a complaint.",
+    "ipc_sections": [
+      "497"
+    ]
+  },
+  {
+    "scenario": "A woman helps her friend elope with a married man, knowing that the man intends to have an affair with her friend.",
+    "ipc_sections": [
+      "498"
+    ]
+  },
+  {
+    "scenario": "A person creates a replica of a ₹100 note for use in a magic trick performance.",
+    "ipc_sections": [
+      "489E"
+    ]
+  },
+  {
+    "scenario": "A son, legally responsible for his ailing mother's care, abandons her at a hospital.",
+    "ipc_sections": [
+      "491"
+    ]
+  },
+  {
+    "scenario": "A man deceives a woman into believing they are married by forging marriage documents and then engages in sexual relations with her.",
+    "ipc_sections": [
+      "493"
+    ]
+  },
+  {
+    "scenario": "A man, already married, marries another woman in a secret ceremony, keeping both marriages hidden from each other.",
+    "ipc_sections": [
+      "494",
+      "495"
+    ]
+  },
+  {
+    "scenario": "A husband repeatedly verbally abuses his wife, causing her severe mental distress.",
+    "ipc_sections": [
+      "498A"
+    ]
+  },
+  {
+    "scenario": "A newspaper publishes a false story about a politician accepting bribes, damaging their reputation.",
+    "ipc_sections": [
+      "499",
+      "500",
+      "501",
+      "502"
+    ]
+  },
+  {
+    "scenario": "An individual sends threatening messages to a business owner, demanding money or they will damage their property.",
+    "ipc_sections": [
+      "503",
+      "506",
+      "507"
+    ]
+  },
+  {
+    "scenario": "During a heated argument, one person intentionally insults another, knowing it will likely provoke a fight.",
+    "ipc_sections": [
+      "504"
+    ]
+  },
+  {
+    "scenario": "Someone posts inflammatory content on social media, inciting hatred between different religious groups.",
+    "ipc_sections": [
+      "505"
+    ]
+  },
+  {
+    "scenario": "A person sends an anonymous letter threatening to kill a family member if a ransom is not paid.",
+    "ipc_sections": [
+      "506",
+      "507"
+    ]
+  },
+  {
+    "scenario": "A group of people print and distribute pamphlets containing false and defamatory information about a local businessman.",
+    "ipc_sections": [
+      "499",
+      "501",
+      "502"
+    ]
+  },
+  {
+    "scenario": "A man threatens a woman with physical violence if she reports him to the police for theft.",
+    "ipc_sections": [
+      "503",
+      "506"
+    ]
+  },
+  {
+    "scenario": "An individual makes a public speech filled with hateful rhetoric, inciting violence against a minority community.",
+    "ipc_sections": [
+      "505"
+    ]
+  },
+  {
+    "scenario": "A person creates a fake online profile and uses it to spread rumors and defame a former colleague.",
+    "ipc_sections": [
+      "499",
+      "500"
+    ]
+  },
+  {
+    "scenario": "A husband consistently denies his wife food and medical care, causing her physical and mental suffering.",
+    "ipc_sections": [
+      "498A"
+    ]
+  },
+  {
+    "scenario": "Someone sends a series of anonymous text messages threatening to reveal a person's secrets if they don't comply with their demands.",
+    "ipc_sections": [
+      "506",
+      "507"
+    ]
+  },
+  {
+    "scenario": "During a protest, a speaker makes inflammatory statements that incite the crowd to riot and attack a specific community.",
+    "ipc_sections": [
+      "505"
+    ]
+  },
+  {
+    "scenario": "A person intentionally insults a police officer in public, knowing it will likely provoke a violent reaction.",
+    "ipc_sections": [
+      "504"
+    ]
+  },
+  {
+    "scenario": "A website publishes a series of articles containing false and damaging information about a company, causing significant financial losses.",
+    "ipc_sections": [
+      "499",
+      "500",
+      "501",
+      "502"
+    ]
+  },
+  {
+    "scenario": "A man threatens to burn down his neighbor's house if they don't stop complaining about his loud music.",
+    "ipc_sections": [
+      "503",
+      "506"
+    ]
+  },
+  {
+    "scenario": "An individual spreads false rumors about a candidate during an election campaign, intending to damage their reputation.",
+    "ipc_sections": [
+      "499",
+      "500"
+    ]
+  },
+  {
+    "scenario": "A woman is subjected to constant emotional and psychological abuse by her in-laws, leading to severe depression.",
+    "ipc_sections": [
+      "498A"
+    ]
+  },
+  {
+    "scenario": "Someone sends an anonymous email threatening to release compromising photos of a person unless they pay a large sum of money.",
+    "ipc_sections": [
+      "506",
+      "507"
+    ]
+  },
+  {
+    "scenario": "A person makes a public statement falsely accusing a doctor of medical malpractice, damaging their professional reputation.",
+    "ipc_sections": [
+      "499",
+      "500"
+    ]
+  },
+  {
+    "scenario": "A man threatens a woman, telling her that if she doesn't give him money, God will punish her and her family with illness.",
+    "ipc_sections": [
+      "508"
+    ]
+  },
+  {
+    "scenario": "A group of men catcall a woman on the street, making lewd gestures and comments.",
+    "ipc_sections": [
+      "509"
+    ]
+  },
+  {
+    "scenario": "A drunk man stumbles into a park and starts yelling obscenities, disturbing families and children.",
+    "ipc_sections": [
+      "510"
+    ]
+  },
+  {
+    "scenario": "A person tries to break into a house with the intention of theft but is caught before they can steal anything.",
+    "ipc_sections": [
+      "511"
+    ]
+  },
+  {
+    "scenario": "A self-proclaimed godman tells his followers that if they don't donate all their wealth to him, they will be cursed with eternal damnation.",
+    "ipc_sections": [
+      "508"
+    ]
+  },
+  {
+    "scenario": "A man sends sexually suggestive messages and images to a woman via social media, despite her repeatedly asking him to stop.",
+    "ipc_sections": [
+      "509"
+    ]
+  },
+  {
+    "scenario": "An intoxicated individual enters a private wedding reception uninvited and starts dancing wildly, causing a disturbance.",
+    "ipc_sections": [
+      "510"
+    ]
+  },
+  {
+    "scenario": "Someone attempts to poison their spouse but the spouse only becomes mildly ill.",
+    "ipc_sections": [
+      "511"
+    ]
+  },
+  {
+    "scenario": "A con artist pretends to be a religious figure and convinces elderly people to give him their life savings by claiming it will ensure their place in heaven.",
+    "ipc_sections": [
+      "508"
+    ]
+  },
+  {
+    "scenario": "A man follows a woman home from work, making inappropriate comments and gestures, causing her to fear for her safety.",
+    "ipc_sections": [
+      "509"
+    ]
+  },
+  {
+    "scenario": "A heavily intoxicated person is found passed out in a public bus, causing inconvenience and disgust to other passengers.",
+    "ipc_sections": [
+      "510"
+    ]
+  },
+  {
+    "scenario": "An individual attempts to commit suicide but is rescued before they can succeed.",
+    "ipc_sections": [
+      "511"
+    ]
+  },
+  {
+    "scenario": "A person threatens to reveal a woman's private photos if she doesn't comply with his demands.",
+    "ipc_sections": [
+      "508",
+      "509"
+    ]
+  },
+  {
+    "scenario": "A group of men make offensive remarks about a woman's appearance and character in a public place.",
+    "ipc_sections": [
+      "509"
+    ]
+  },
+  {
+    "scenario": "A drunk man starts a fight in a bar, causing damage to property and injuring other patrons.",
+    "ipc_sections": [
+      "510"
+    ]
+  },
+  {
+    "scenario": "Someone tries to bribe a government official but is unsuccessful.",
+    "ipc_sections": [
+      "511"
+    ]
+  },
+  {
+    "scenario": "A person threatens to spread rumors about a woman's infidelity if she doesn't give him money.",
+    "ipc_sections": [
+      "508",
+      "509"
+    ]
+  },
+  {
+    "scenario": "A man makes sexually suggestive comments to a female colleague in the workplace.",
+    "ipc_sections": [
+      "509"
+    ]
+  },
+  {
+    "scenario": "An intoxicated person urinates in public, causing annoyance and disgust to passersby.",
+    "ipc_sections": [
+      "510"
+    ]
+  },
+  {
+    "scenario": "Someone attempts to forge a document but is caught before they can use it.",
+    "ipc_sections": [
+      "511"
+    ]
+  }
+]
